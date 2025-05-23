@@ -9,8 +9,8 @@ color definitions downloaded from [here](https://www.ldraw.org/article/547.html)
 
 ```js
 const loader = new LDrawLoader();
-loader.setPartsLibraryPath( 'https://raw.githubusercontent.com/gkjohnson/ldraw-parts-library/master/complete/ldraw/' );
-await loader.preloadMaterials( 'https://raw.githubusercontent.com/gkjohnson/ldraw-parts-library/master/colors/ldcfgalt.ldr' );
+loader.setPartsLibraryPath( 'https://raw.githubusercontent.com/peti12352/ldraw-parts-library-2025/master/complete/ldraw/' );
+await loader.preloadMaterials( 'https://raw.githubusercontent.com/peti12352/ldraw-parts-library-2025/master/colors/ldcfgalt.ldr' );
 
-loader.load( 'https://raw.githubusercontent.com/gkjohnson/ldraw-parts-library/master/complete/ldraw/10030-1%20-%20Imperial%20Star%20Destroyer%20-%20UCS.mpd' );
+loader.load( 'https://raw.githubusercontent.com/peti12352/ldraw-parts-library-2025/master/complete/ldraw/10030-1%20-%20Imperial%20Star%20Destroyer%20-%20UCS.mpd' );
 ```
