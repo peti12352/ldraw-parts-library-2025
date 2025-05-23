@@ -1,12 +1,14 @@
 0 ~Wheel Rim 11 x 18 Side with Tyre Widener - Torus Corner without Conditional Lines
 0 Name: s\49098s03.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Original shape: 1 16 0 0 -4 2 0 0 0 0 -2 0 -1.3333 0 48\tm04o2727.dat
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-12-31 [OrionP] Official Update 2023-07
 
 
 0 // Faces

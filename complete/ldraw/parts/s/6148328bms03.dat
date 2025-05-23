@@ -1,10 +1,12 @@
 0 ~Sticker  0.8 x  2.0 with Headlamp and Dark Grey Stripes on White Background Right - Third Face
 0 Name: s\6148328bms03.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 0 // Upper lamps
@@ -52,7 +54,7 @@
 4 0 -5.6993 -.25 2.9958 -6.2007 -.25 1.9632 -5.7434 -.25 1.7727 -5.3427 -.25 2.6375
 4 0 -6.375 -.25 .8287 -5.875 -.25 .8287 -5.7434 -.25 1.7727 -6.2007 -.25 1.9632
 4 0 -6.375 -.25 .8287 -6.24 -.25 -.0497 -5.7526 -.25 -.0497 -5.875 -.25 .8287
-4 0 6.375 -.25 .8287 5.875 -.25 .8287 5.7526 -.25 -.0497 6.24 -.25 -.097
+4 0 6.375 -.25 .8287 5.875 -.25 .8287 5.7526 -.25 -.0497 6.24 -.25 -.0497
 4 0 6.375 -.25 .8287 6.2007 -.25 1.9632 5.7434 -.25 1.7727 5.875 -.25 .8287
 4 0 5.6993 -.25 2.9958 5.3427 -.25 2.6375 5.7434 -.25 1.7727 6.2007 -.25 1.9632
 4 0 5.6993 -.25 2.9958 4.8572 -.25 3.7758 4.6633 -.25 3.3059 5.3427 -.25 2.6375

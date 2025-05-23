@@ -1,10 +1,13 @@
 0 ~Sticker  4.9 x  7.2 Quarter Ellpise with Large White Train Logo on Light Bluish Grey and Dark Blue Background - Common Geometry
 0 Name: s\6227186es01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 0 // Box
@@ -118,8 +121,8 @@
 4 15 -19.382 -.25 -24 4.331 -.25 -24 4.331 -.25 -16 -19.382 -.25 -16
 3 15 -35.273 -.25 -20 -19.382 -.25 -24 -19.382 -.25 -16
 4 15 -8.7 -.25 -6.1 -14 -.25 -.2 -35.273 -.25 -20 -19.382 -.25 -16
-1 272 24.9 -.25 -20 0 0 3 0 1 0 -3 0 0 48\5-24rin7.dat
-1 272 24.9 -.25 -20 0 0 -3 0 1 0 -3 0 0 48\5-24rin7.dat
+1 272 24.9 -.25 -20 0 0 3 0 1 0 -3 0 0 48\5-24ring7.dat
+1 272 24.9 -.25 -20 0 0 -3 0 1 0 -3 0 0 48\5-24ring7.dat
 1 71 24.9 -.25 -20 0 0 -24 0 1 0 -24 0 0 48\5-24ndis.dat
 1 71 24.9 -.25 -20 0 0 24 0 1 0 -24 0 0 48\5-24ndis.dat
 1 272 24.9 -.25 -20 0 0 -21 0 1 0 21 0 0 48\5-24ndis.dat
@@ -281,3 +284,4 @@
 3 272 -8.7 -.25 -6.1 4.616 -.25 -14.565 3.9 -.25 1
 4 272 -41.1 -.25 -70.7 -43.5 -.25 -70.7 -48 -.25 -71 -33.1 -.25 -71
 3 272 -49 -.25 -70 -48 -.25 -71 -48.746 -.25 -62.269
+3 71 49 -.25 -26.211 48.9 -.25 -44 49 -.25 -48

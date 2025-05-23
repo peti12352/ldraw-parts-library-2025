@@ -1,15 +1,17 @@
-0 Minifig Shield Triangular with Black Falcon and Black Border Pattern
+0 Minifig Shield Triangular with Black and Metallic Silver Falcon with Black Border Pattern
 0 Name: 3846p49.dat
 0 Author: Bertrand Lequy [Berth]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Set 21325, Set 31120, Bricklink 3846pb055, Rebrickable 3846pr0040
+0 !KEYWORDS Bricklink 3846pb055, Rebrickable 3846pr0040, Set 21325, Set 31120
+0 !KEYWORDS Set 5007428, Set 910001, Set 910029
 
 0 !HISTORY 2023-01-11 [Zaghor] Using subfiles
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3846s01.dat
 1 80 0 0 -10 1 0 0 0 1 0 0 0 1 s\3846p49s01.dat
@@ -224,4 +226,3 @@
 3 80 4.95 18.19 -10 4.15 19.14 -10 8.47 21.24 -10
 4 80 1.52 20.44 -10 0.73 22.1 -10 3.32 19.6 -10 2.52 19.63 -10
 3 80 1.7 19.46 -10 1.52 20.44 -10 2.52 19.63 -10
-0

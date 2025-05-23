@@ -1,10 +1,12 @@
 0 ~Figure Cap on Brick  2 x  2 with Flat Bill Patternable Area Half
 0 Name: s\67017s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
 
 
 3 16 10.188 -17.091 -28.714 19.357 -5.683 -25.967 21.209 -14.942 -24.26

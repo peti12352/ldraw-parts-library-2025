@@ -1,13 +1,15 @@
 0 Sticker  0.7 x  2.9 with Black "ANWB" on Transparent Background
 0 Name: 194535e.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 1590-2, Road service, Netherlands, Bricklink 1590.2stk01
-0 !KEYWORDS Rebrickable 194535, Brickowl 599539
+0 !KEYWORDS Bricklink 1590.2stk01, Brickowl 599539, Netherlands
+0 !KEYWORDS Rebrickable 194535, Road service, Set 1590-2
+
+0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
 
 
 1 16 0 -0.25 0 29 0 0 0 0.25 0 0 0 7 box5-12.dat

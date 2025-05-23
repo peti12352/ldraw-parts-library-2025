@@ -1,10 +1,12 @@
 0 ~Wheel Rim 11 x 24 Front with  5 Spokes - One Spoke
 0 Name: s\72210as01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
 
 
 4 16 0 0 -3.5 1.958 -2.695 -3.5 1.0294 -3.1677 -3.5 0 -3.3313 -3.5

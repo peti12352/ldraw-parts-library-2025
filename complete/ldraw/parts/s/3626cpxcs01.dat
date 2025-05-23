@@ -1,10 +1,12 @@
 0 ~Minifig Head with Wide Set Eyes, Smile / Open Mouth with Teeth and Tongue 2-Sided Pattern - Front Half
 0 Name: s\3626cpxcs01.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
 
 
 4 0 -5.6651 8.2901 -11.5495 -5.8767 7.2265 -11.4082 -5.951 7.6 -11.3585 -5.8767 7.9735 -11.4082

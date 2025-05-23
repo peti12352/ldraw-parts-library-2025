@@ -1,8 +1,8 @@
 0 String Cord Thin 20 cm x  0.6 cm (Formed for Set 4564)
 0 Name: 56823-f1.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP For the model-specific view delete "0 //"
 0 !HELP in the four lines before the actual code.
@@ -10,9 +10,11 @@
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Set 4564, Bricklink x77ac20
+0 !KEYWORDS BrickLink x77ac200, Rebrickable 56823c200, set 4564
 
 0 !CMDLINE -c0
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 0 // 1 0 0 0 0 1 0 0 0 1 0 0 0 1 2585.dat

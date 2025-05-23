@@ -1,12 +1,14 @@
 0 Tile  1 x  1 with "DREAM BIG" on Dark Turquoise Background Pattern
 0 Name: 3070bp18.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 41916, Dots, Bricklink 3070bpb146
+0 !KEYWORDS BrickLink 3070pb146, Dots, Rebrickable 3070bpr0015, Set 41916
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat

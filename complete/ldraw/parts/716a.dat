@@ -1,14 +1,17 @@
 0 Brick  2 x  4 Half Round without Cutouts
 0 Name: 716a.dat
 0 Author: N. W. Perry [Plastikean]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS macaroni, ring, curved, classic
+0 !KEYWORDS Bricklink x1042a, classic, curved, macaroni, Rebrickable upn0175
+0 !KEYWORDS Ring, semicircle
 
 0 !HISTORY 2021-08-02 [MagFors] made subfile for a and b version
+0 !HISTORY 2024-12-30 [OrionP] Official Update 2024-11
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\716s01.dat
 0 BFC INVERTNEXT

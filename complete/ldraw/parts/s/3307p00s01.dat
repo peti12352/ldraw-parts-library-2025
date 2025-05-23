@@ -1,10 +1,12 @@
 0 ~Arch  1 x  6 x  2 with Thick Top and Reinforced Underside with Oriental Pattern
 0 Name: s\3307p00s01.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 3 8 -56.0787 3.3962 0 -56.4075 3.8199 0 -56.1615 3.7315 0

@@ -1,8 +1,8 @@
 0 Figure Feet  2 x  2 x  0.667 with  4 Feet
 0 Name: 84867.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,8 @@
 
 0 !HISTORY 2022-05-24 {LEGO Instructions App} Original part shape
 0 !HISTORY 2022-05-24 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06
+
 
 1 16 0 11 0 1 0 0 0 -1 0 0 0 1 axl3hol9.dat
 1 16 0 11 0 1 0 0 0 -1 0 0 0 1 axl3hol3.dat

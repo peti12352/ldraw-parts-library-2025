@@ -1,10 +1,12 @@
 0 ~Car Steering Wheel  5 x  5 with Two Spokes and  2 x  2 Stud Centre with Axlehole - Quarter
 0 Name: s\67811s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06
 
 
 0 // Bottom

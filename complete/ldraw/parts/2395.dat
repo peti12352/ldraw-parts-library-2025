@@ -1,10 +1,13 @@
 0 Technic Panel Fairing Smooth #9 (Medium Triangle)
 0 Name: 2395.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 1 16 -20 -40 0 0 0 -1 -1 0 0 0 1 0 connhol3.dat
@@ -121,7 +124,7 @@
 2 24 -15.4039 -44.5962 11.9645 -10.179 -39.923 15.564
 1 16 -20 -40 8 0 0 -9 9 0 0 0 1 0 2-4edge.dat
 1 16 -20 -40 8 0 0 -3 3 0 0 0 -1 0 2-4ring2.dat
-1 16 -20 -40 8 0 0 1 -1 0 0 0 -1 0 3-16rin6.dat
+1 16 -20 -40 8 0 0 1 -1 0 0 0 -1 0 3-16ring6.dat
 1 16 -20 -40 8 0 0 6 6 0 0 0 -1 0 1-4ndis.dat
 1 16 -20 -40 8 6 0 0 0 0 -6 0 -1 0 1-16tang.dat
 4 16 -20 -31 8 -20 -34 8 -14 -34 8 -3.2582 -31 8

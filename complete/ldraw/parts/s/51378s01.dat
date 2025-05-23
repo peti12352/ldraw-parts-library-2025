@@ -1,12 +1,14 @@
 0 ~Wheel Rim 20 x 75 with 6 Double Spokes - 1/6
 0 Name: s\51378s01.dat
 0 Author: Andreas Laber [Tandini]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-02-15 [MagFors] unified subfiles, added missing structure, edges and condlines
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
 
 1 16 0 -20 -20 -1 0 0 0 0 1 0 1 0 connhol3.dat
 3 16 -6.3639 -13.6361 -30 -3.9392 -9.5098 -30 -3.4443 -11.684 -30

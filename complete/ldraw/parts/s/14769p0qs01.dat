@@ -1,10 +1,12 @@
 0 ~Tile  2 x  2 Round with Round Underside Stud with Black and Metallic Gold Compass Center Pattern - Quarter
 0 Name: s\14769p0qs01.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
 
 
 4 0 .6697 0 1.6168 1.2374 0 1.2374 3.182 0 3.182 1.7222 0 4.1576

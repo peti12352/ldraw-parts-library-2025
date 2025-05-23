@@ -1,10 +1,13 @@
 0 ~| BBB Train Wheel Medium Blind Driver 24.0 mm Rims Wreath - Quarter
 0 Name: s\t1074s01.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
 
 
 1 16 0 0 -15 0 0 .96767 -.96767 0 0 0 -4.75 0 48\1-4con30.dat
@@ -12,7 +15,7 @@
 1 16 0 0 -5 0 0 29.99777 -29.99777 0 0 0 -10 0 48\1-4cyli.dat
 0 BFC INVERTNEXT
 1 16 0 0 -19.75 0 0 26.51 -26.51 0 0 0 2 0 48\1-4cylo.dat
-1 16 0 0 -17.75 0 0 2.41 -2.41 0 0 0 1 0 48\1-4rin10.dat
+1 16 0 0 -17.75 0 0 2.41 -2.41 0 0 0 1 0 48\1-4ring10.dat
 4 16 29.0301 0 -19.75 28.780441 -3.788428 -19.75 26.282014 -3.459555 -19.75 26.51 0 -19.75
 4 16 28.780441 -3.788428 -19.75 28.040174 -7.51299 -19.75 25.606009 -6.860788 -19.75 26.282014 -3.459555 -19.75
 4 16 28.040174 -7.51299 -19.75 26.820909 -11.109819 -19.75 24.492589 -10.145377 -19.75 25.606009 -6.860788 -19.75

@@ -1,10 +1,12 @@
 0 ~Minifig Head Dual Sided Female with Brown Eyebrows, Eyelashes, Orange Lips, Neutral / Angry Pattern -  1/2 Front
 0 Name: s\3626cpx8s01.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 3 0 -6.2 8.15 -11.1921 -5.6 8.7 -11.5931 -5.3 8.2 -11.7936

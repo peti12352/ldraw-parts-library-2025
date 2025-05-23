@@ -1,13 +1,15 @@
-0 ~Minifig Head Snake Structure Half
+0 ~Minifig Head Snake Cobra Structure Half
 0 Name: s\98150s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2021-02-16 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
 
 0 BFC INVERTNEXT
 1 16 0 -27 0 0 0 6 0 27 0 -6 0 0 2-4cylc.dat

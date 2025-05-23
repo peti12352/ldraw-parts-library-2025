@@ -1,11 +1,12 @@
-0 ~Minifig Helmet Snow Goggles - Half
+0 ~Minifig Helmet Visor Snow Goggles - Half
 0 Name: s\46304s01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !HISTORY 2024-08-26 [OrionP] Official Update 2024-07
 
 1 16 18.26 -1.696 1.696 0 -3.26 0 0 0 -2 2 0 0 1-4cylo.dat
 1 16 18.26 1.696 1.696 0 -3.26 0 0 0 2 2 0 0 1-4cylo.dat
@@ -14,7 +15,7 @@
 1 16 15 -1.696 1.696 0 1 0 0 0 -2 2 0 0 1-4chrd.dat
 1 16 15 1.696 1.696 0 1 0 0 0 2 2 0 0 1-4chrd.dat
 1 16 16.63 0 3.696 0 0 -1.63 1.696 0 0 0 -1 0 rect2p.dat
-1 16 15 0 0 0 2.25 0 -1.75 0 0 0 0 1.75 bump5000.dat
+1 16 15 0 0 0 2 0 -1.75 0 0 0 0 1.75 bump5000.dat
 1 16 15 0 -1.5911 0 1 0 0 0 -3.696 -3.28706 0 0 rect2p.dat
 
 3 16 17.19 7.453 -8.737 18.092 3.696 -4.721 17.874 7.2745 -8.624

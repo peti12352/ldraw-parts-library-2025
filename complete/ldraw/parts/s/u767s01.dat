@@ -1,10 +1,12 @@
 0 ~Sail 12 x 10 Trapezoidal Surface
 0 Name: s\u767s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2025-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-04-27 [OrionP] Official Update 2025-04
 
 
 4 16 114.9497 0 -84.9497 110 0 -94.229 115.4452 0 -93.1459 120.0614 0 -90.0614

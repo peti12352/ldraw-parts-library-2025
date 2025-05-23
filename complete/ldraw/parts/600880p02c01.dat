@@ -1,16 +1,19 @@
 0 Minifig Skirt  1.1L with Straight Bottom with Tartan Pattern (Formed) (Needs Work)
 0 Name: 600880p02c01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Offset torso by y=-0.5LDU
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Hipwear
-0 !KEYWORDS Scot, Scottish, Scotland, Scotsman, Bagpiper, Kilt, CMF Series 7
-0 !KEYWORDS collectable, collectible
+0 !KEYWORDS Bagpiper, Bricklink 99257pb01, Brickowl 102976, CMF, Collectable
+0 !KEYWORDS Collectible Minifigures, Kilt, Rebrickable 99257pr0001, Scot
+0 !KEYWORDS Scotland, Scotsman, Scottish, Series 7, Set 8831
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 0 // (Needs Work): Top not patterned

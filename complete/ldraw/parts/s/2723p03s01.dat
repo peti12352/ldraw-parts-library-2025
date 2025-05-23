@@ -1,11 +1,12 @@
 0 ~Technic Disc  3 x  3 with Axlehole Black and Dark Bluish Grey Circles and Silver Spokes Pattern  1/8
 0 Name: s\2723p03s01.dat
-0 Author: Thomas Burger [grapeape]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Subpart UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
 
 4 0 -3.6644 3 27.8341 0 3 28.0743 0 3 28.501 -3.7201 3 28.2572
 4 0 -7.2662 3 27.1177 -3.6644 3 27.8341 -3.7201 3 28.2572 -7.3766 3 27.5299

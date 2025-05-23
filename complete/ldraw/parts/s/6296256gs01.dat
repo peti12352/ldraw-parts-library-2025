@@ -1,10 +1,12 @@
 0 ~Sticker  5.8 x  5.8 with FIAT 500 and Colosseum Painting
 0 Name: s\6296256gs01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06
 
 
 1 0 56.6 -.25 -56.6 1.4 0 0 0 1 0 0 0 -1.4 3-16chrd.dat

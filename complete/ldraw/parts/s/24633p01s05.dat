@@ -1,10 +1,12 @@
 0 ~Minifig Head Duck Eye Pupils with Highlight Pattern
 0 Name: s\24633p01s05.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 4 15 -6.39 -21.5005 -17.3958 -5.9738 -21.8361 -17.5381 -5.805 -22.231 -17.595 -6.9215 -21.4754 -17.213

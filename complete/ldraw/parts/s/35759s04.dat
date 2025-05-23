@@ -1,10 +1,12 @@
 0 ~Minifig Headdress Fireworks Rocket Costume Cylindrical End Outer Surface, Half
 0 Name: s\35759s04.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
 
 
 4 16 2.7405 -3.5 -20.8194 0 -3.5 -21 0 1.9497 -21 2.7405 2.0457 -20.8194

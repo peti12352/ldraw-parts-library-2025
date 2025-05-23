@@ -1,12 +1,15 @@
-0 Tile  2 x  2 with Four Pastel Squares Pattern
+0 Tile  2 x  2 with  4 Pastel Squares Pattern
 0 Name: 3068bp21.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 6402, Town, Paradisa, Ice cream, Bricklink 3068pb19
+0 !KEYWORDS BrickLink 3068pb2250, Ice cream, Paradisa, Rebrickable 3068bpr9929
+0 !KEYWORDS Set 6402, town
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat

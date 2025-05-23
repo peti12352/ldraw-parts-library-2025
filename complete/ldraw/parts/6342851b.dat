@@ -1,12 +1,14 @@
-0 Sticker  7.7 x  5.7 with Hubble Space Telescope Information
+0 Sticker  5.7 x  7.7 with Hubble Space Telescope Information
 0 Name: 6342851b.dat
 0 Author: Orion Pobursky [OrionP]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10283, NASA, ESA
+0 !KEYWORDS ESA, NASA, Set 10283
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 1 16 0 -0.25 0 77 0 0 0 0.25 0 0 0 57 box5-12.dat
@@ -2090,7 +2092,7 @@
 4 0 -23.751 -0.25 10.284 -20.306 -0.25 10.543 -20.487 -0.25 11.113 -23.629 -0.25 10.815
 4 0 -23.629 -0.25 10.815 -20.487 -0.25 11.113 -21.031 -0.25 11.454 -23.263 -0.25 11.222
 4 0 -23.263 -0.25 11.222 -21.031 -0.25 11.454 -21.936 -0.25 11.568 -22.687 -0.25 11.481
-3 0 -17.356 -0.25 1.309 -72 -0.25 0 -19.084 -0.25 1.309
+3 0 -19.084 -0.25 1.309 -72 -0.25 0 -17.356 -0.25 1.309
 4 0 58.459 -0.25 1.309 -17.356 -0.25 1.309 -72 -0.25 0 72 -0.25 0
 3 0 72 -0.25 0 60.187 -0.25 1.309 58.459 -0.25 1.309
 4 0 62.57 -0.25 3.716 60.187 -0.25 1.309 72 -0.25 0 69.262 -0.25 3.716

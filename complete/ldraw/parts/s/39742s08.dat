@@ -1,10 +1,12 @@
 0 ~Animal Cat Standing with Spiky Mohawk and Collar Bandage Area
 0 Name: s\39742s08.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
 
 
 3 16 7.064 -46.588 -3.842 8.521 -44.494 -4.036 8.616 -45.539 -.922

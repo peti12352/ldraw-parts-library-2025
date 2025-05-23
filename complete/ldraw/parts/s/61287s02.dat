@@ -1,10 +1,12 @@
-0 ~Minifig Helmet Bubble Half Outer Surface
+0 ~Cylinder Hemisphere  2 x  2 with Cutout Outer Surface
 0 Name: s\61287s02.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
 
 
 3 16 0 -44.021 -9.95 0 -46 0 -3.8078 -44.0214 -9.1928

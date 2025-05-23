@@ -1,10 +1,12 @@
 0 ~Tyre 27/ 48 x 107 Motorcycle with Racing Tread Adapter Ring  1/12
 0 Name: s\71721s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 
 4 16 0 140.3666 -34 0 142 -34 14.843 141.2221 -34 18.3178 139.1595 -34

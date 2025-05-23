@@ -1,13 +1,15 @@
 0 Minifig Head with Pumpkin Jack-o'-Lantern Open Semicircular Eyes with Vertical Lines on Back Pattern
 0 Name: 3626cpb2.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Spider-Man, Halloween, Green Goblin, Hobgoblin
-0 !KEYWORDS Bricklink 3626cpb1522, Set 76058, Set 76064
+0 !KEYWORDS BrickLink 3626pb1522, Green Goblin, Halloween, Hobgoblin
+0 !KEYWORDS Rebrickable 3626cpr1898, Set 76058, Set 76064, Spider-Man
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat

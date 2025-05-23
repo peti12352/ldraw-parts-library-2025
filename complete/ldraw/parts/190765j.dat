@@ -1,17 +1,19 @@
 0 Sticker Minifig Torso with Yellow Standing Lion and Two Hearts
 0 Name: 190765j.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 1592, Town square, Castle, Festival
+0 !KEYWORDS Bricklink 1592.1stk01, Brickowl 41924, Castle, Festival
+0 !KEYWORDS Rebrickable 190765, set 1592, Town Square
 
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\004315s01.dat
-1 1 -1.6 -.25 8.4 -.6 0 0 0 1 0 0 1 -.6 4-4disc.dat
-1 14 -1.6 -.25 8.4 -.6 0 0 0 1 0 0 1 -.6 4-4ndis.dat
+1 1 -1.6 -.25 8.4 -.6 0 0 0 1 0 0 0 -.6 4-4disc.dat
+1 14 -1.6 -.25 8.4 -.6 0 0 0 1 0 0 0 -.6 4-4ndis.dat
 4 4 -10 -.25 -4.6 -10 -.25 -9.2 -8.7 -.25 -8.7 -9.2 -.25 -4
 4 4 -9.2 -.25 -4 -8.7 -.25 -8.7 -7.4 -.25 -7.4 -8.2 -.25 -3.8
 4 4 -8.2 -.25 -3.8 -7.4 -.25 -7.4 -6.8 -.25 -5.6 -7.2 -.25 -4.3

@@ -1,10 +1,12 @@
 0 Plant Flower Stem Green with Bar and Hole and  3 Flowers with  7 Alternate Petals
 0 Name: 24855c02.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Shortcut 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Shortcut UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 1 2 0 0 0 1 0 0 0 1 0 0 0 1 24855.dat

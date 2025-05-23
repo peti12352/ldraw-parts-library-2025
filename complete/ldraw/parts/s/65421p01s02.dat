@@ -1,10 +1,12 @@
 0 ~Technic Concrete Mixer Half Shell Logo Coloured Arrow Pattern
 0 Name: s\65421p01s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
 
 
 4 16 -49.3662 -119.1805 -29.6911 -43.4687 -121.1824 3.2145 -43.8223 -121.0623 8.9 -49.3662 -119.1805 47.4911

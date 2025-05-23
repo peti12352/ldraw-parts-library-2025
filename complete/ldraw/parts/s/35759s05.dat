@@ -1,12 +1,14 @@
 0 ~Minifig Headdress Fireworks Rocket Costume Cylindrical End Interior Front Half
 0 Name: s\35759s05.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-03-12 [MagFors] Added back wall head support
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
 
 0 // Inner Wall Front
 2 24 9.7408 67.5 -13.4878 11.3136 67.5 -12.0207

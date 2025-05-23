@@ -1,18 +1,20 @@
 0 Minifig Helmet Dirt Bike
 0 Name: 35458.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Dimples for goggles at y=7.75 z=0.5
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS motorcycle, off road, motorbike, BMX, ATV
+0 !KEYWORDS ATV, BMX, motorbike, Motorcycle, off road
 
 0 !HISTORY 2021-03-24 {LEGO/Unity Microgame} Original part shape
 0 !HISTORY 2021-10-22 [MagFors] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\35458s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\35458s01.dat

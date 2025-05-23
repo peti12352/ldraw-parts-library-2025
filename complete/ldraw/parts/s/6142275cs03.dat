@@ -1,15 +1,17 @@
 0 ~Sticker  1.8 x  1.8 with "Audi Sport" Logo on Black and White Background Left - White Text "Audi Sport" on Red Background with Extended Outer Box
 0 Name: s\6142275cs03.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
+
 
 0 // Subparts
-1 15 -20.766 0 .9605 1 0 0 0 1 0 0 0 1 s\logoaudit01.dat
-1 4 -20.766 0 .9605 1 0 0 0 1 0 0 0 1 s\logoaudib02.dat
+1 15 -20.766 0 .9605 1 0 0 0 1 0 0 0 1 logo-audi-text.dat
+1 4 -20.766 0 .9605 1 0 0 0 1 0 0 0 1 logo-audi-text-box.dat
 1 15 17.539 0 0 1 0 0 0 1 0 0 0 1 s\logoaudit03.dat
 0 // Incomplete outer box for "Sport" text
 4 4 -.1545 0 1.6515 -.4195 0 2.1505 -.5395 0 -1.1485 .0535 0 -1.3295

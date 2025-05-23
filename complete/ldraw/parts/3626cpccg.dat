@@ -1,14 +1,17 @@
-0 Minifig Head with Black Thin Straight Eybrows and Light Bluish Grey Lips and Eyeshadow Pattern
+0 Minifig Head Female with Black Thin Straight Eyebrows and Light Bluish Grey Lips and Eyeshadow Pattern
 0 Name: 3626cpccg.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3626cpb1176, Set 71007, Spooky Girl, Emo
-0 !KEYWORDS Collectible Minifigures, CMF, Series 12
+0 !KEYWORDS BrickLink 3626pb1176, CMF, Collectible Minifigures, Emo
+0 !KEYWORDS Rebrickable 3626cpr1481, Series 12, Set 71007, Spooky Girl
 
+0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
+0 !HISTORY 2023-11-07 [MagFors] Update description, corrected spelling
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat

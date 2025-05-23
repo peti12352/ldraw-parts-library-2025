@@ -1,17 +1,19 @@
 0 Minifig Hair Female with Top Knot Bun and Forelock
 0 Name: 93562.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS set 10224, set 10235, set 21316, CMF, collectible minifigures
-0 !KEYWORDS series 4, series 6, series 8, flamenco dancer, wilma flintstone
+0 !KEYWORDS CMF, Collectible Minifigures, flamenco dancer, Series 4, Series 6
+0 !KEYWORDS Series 8, Set 10224, set 10235, Set 21316, wilma flintstone
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2013-08-14 [Holly-Wood] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
+
 
 1 16 0 -6 0 1 0 0 0 -1.5 0 0 0 1 stud4o.dat
 1 16 0 0 0 8 0 0 0 -3 0 0 0 8 4-4cylo.dat

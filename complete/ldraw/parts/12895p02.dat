@@ -1,15 +1,18 @@
 0 Minifig Captains Hat with Golden Braid with Black Insignia and Reddish Brown Top Pattern
 0 Name: 12895p02.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Bricklink 12895pb02, Set 75091, Set 75058, Naboo Security Guard
+0 !KEYWORDS Bricklink 12895pb02, Naboo Security Guard, Rebrickable 12895pr0001
+0 !KEYWORDS Set 75058, Set 75091
 
 0 !HISTORY 2023-01-29 [MagFors] Further subfiling, added missing condlines
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+
 
 0 // Top and Inside
 

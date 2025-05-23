@@ -1,10 +1,12 @@
 0 ~Sail 11 x  9 Trapezoidal Edge Stripe  1 (Formed)
 0 Name: s\u768c01s03.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 4 16 19.031 103.4368 10.0493 16.6875 100.2203 13.9701 16.9875 100.2203 13.9701 19.331 103.4368 10.0493

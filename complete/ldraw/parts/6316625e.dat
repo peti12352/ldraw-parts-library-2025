@@ -1,12 +1,14 @@
 0 Sticker  3.4 x  3.8  with Dark Azur Train Logo (2006) on White Background
 0 Name: 6316625e.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Set 60336
+
+0 !HISTORY 2023-12-31 [OrionP] Official Update 2023-07
 
 
 0 // Box
@@ -33,8 +35,8 @@
 4 15 -38 -.25 -33 -37 -.25 -34 37 -.25 -34 38 -.25 -33
 4 15 38 -.25 33 37 -.25 34 -37 -.25 34 -38 -.25 33
 
-1 321 0 0 0 1 0 0 0 1 0 0 0 1 s\4296207fs01.dat
-1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\4296207fs02.dat
+1 321 0 0 0 1 0 0 0 1 0 0 0 1 logo-train-2006.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 logo-train-2006-box.dat
 
 4 15 -35 -.25 -12 -38 -.25 -33 -12 -.25 -12 -21.5662 -.25 -11.6778
 3 15 -12 -.25 -12 -38 -.25 -33 0 -.25 -12

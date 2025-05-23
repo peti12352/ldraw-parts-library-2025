@@ -1,11 +1,12 @@
 0 ~Figure Duplo Bust Tall Hair Structure
 0 Name: s\u9493s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
 
 1 16 0 -48 0 1 0 0 0 2.75 0 0 0 1 stud7.dat
 1 16 0 -53.5 0 9 0 0 0 1 0 0 0 9 4-4edge.dat
@@ -37,7 +38,7 @@
 1 16 0 4 0 2.33333 0 0 0 5 0 0 0 2.33333 4-4con4.dat
 1 16 0 4 0 11.66667 0 0 0 -1 0 0 0 11.66667 4-4edge.dat
 1 16 0 4 0 3.88889 0 0 0 1 0 0 0 3.88889 4-4ring2.dat
-1 16 -1 -28.15 -14.37558 0 1 0 0 0 -15.85 -2.5744 0 5e-5 rect.dat
+1 16 -1 -28.15 -14.37558 0 1 0 0 0 -15.85 -2.5744 0 0 rect.dat
 1 16 1 -28.15 -14.37558 0 -1 0 15.85 0 0 0 0 2.57445 rect.dat
 1 16 0 -12.3 -14.3756 0 0 -1 0 -1 0 -2.5744 0 0 rect1.dat
 1 16 0 -28.15 -16.95 0 0 -1 -15.85 0 0 0 1 0 rect1.dat

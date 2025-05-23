@@ -1,12 +1,15 @@
 0 Sticker  1.5 x  4.9 with White "POLICE" on Blue Rounded Rectangle
 0 Name: 196715a.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 6450, Police car, Van, Truck, Battery box
+0 !KEYWORDS Battery box, Bricklink 6450stk01, Brickowl 226338, Police car
+0 !KEYWORDS Rebrickable 196715, Set 6450, truck, van
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
 
 
 0 // Font: Swiss 721 BT Bold (Inlined primitives)

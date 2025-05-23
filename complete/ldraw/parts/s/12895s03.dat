@@ -1,10 +1,12 @@
 0 ~Minifig Captains Hat - Patternable Area
 0 Name: s\12895s03.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
 
 
 3 16 -5.746 -8.599 -13.472 -8.9977 -8.092 -11.7541 -5.7405 -4.5661 -11.5422

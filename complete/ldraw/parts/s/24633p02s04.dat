@@ -1,10 +1,12 @@
 0 ~Minifig Head Duck Eye Medium Blue with Black Pupil, Eyelash and Lavender Eye Shadow Pattern
 0 Name: s\24633p02s04.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 4 0 8.4171 -19.6411 -16.7036 5.9717 -16.9387 -17.5529 6.8156 -17.0647 -17.2059 7.5066 -17.6009 -16.9508

@@ -1,13 +1,15 @@
 0 ~Dome  2 x  2 with SW Astromech R2/R4 Pattern - Non-Variable Surfaces
 0 Name: s\30367ps0s04.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-04-29 [fwcain] Code split into sub-files, for use by other patterns
 0 !HISTORY 2022-11-05 [MagFors] Corrected condlines, removed T-junctions, reduced code
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
+
 
 4 0 1.1097 4.4485 -15.9986 0 4.3001 -16.0529 0 4.686 -16.486 1.6385 4.686 -16.1598
 

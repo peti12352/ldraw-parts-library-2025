@@ -1,10 +1,12 @@
 0 ~Minifig Tail Dragon Spikes
 0 Name: s\35756s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 4 16 -2.0867 24.8923 51.9292 -2.6975 28.7458 43.8324 -1.694 23.5362 42.4448 -1.8648 23.8053 51.1413

@@ -1,13 +1,15 @@
-0 Sticker Plane Aft Section  8 x 16 x  7 with Left Side Orange, Light Bluish Grey, White Lines (Formed)
+0 Sticker 3.6 x 3.0 Circle Section Left Rear Orange Border, Light Bluish Grey, White Lines (Formed)
 0 Name: 6133216ic01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS BrickLink 54701c06, set 60104
+0 !KEYWORDS 60104stk01b, BrickLink 54701c06pb01, BrickLink 60104stk01a
+0 !KEYWORDS Brickowl 685730, Rebrickable 24549, set 60104
 
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 4 15 78.1661 67.1055 27.8851 78.0114 60.6 30.1 77.9043 56 31.6181 80.1126 56 -15.7026
 4 15 78.6217 81.5508 20.5622 78.3843 74.4508 24.4498 78.1661 67.1055 27.8851 80.1126 56 -15.7026

@@ -1,13 +1,15 @@
 0 Tile  2 x  4 with Metallic Silver Car Grille Pattern
 0 Name: 87079p70.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10680, Set 10683, Set 10735, Town, City, Truck, Vehicle, Juniors
-0 !KEYWORDS 4+, Bricklink 87079pb0214
+0 !KEYWORDS 4+, Bricklink 87079pb0214, City, Juniors, Rebrickable 87079pr0066
+0 !KEYWORDS Set 10680, Set 10683, Set 10735, town, truck, Vehicle
+
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat

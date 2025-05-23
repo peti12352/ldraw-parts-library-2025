@@ -1,12 +1,14 @@
 0 ~Technic Connector  3 x  1 x  2 with Peghole and Two Pins Common Geometry
 0 Name: s\15461s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-03 [Philo] Subparted from 15641
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
 
 1 16 -10 0 0 0 1 0 0 0 -1 -1 0 0 connhole.dat
 1 16 -20 0 0 0 1 0 0 0 -9 -9 0 0 4-4edge.dat

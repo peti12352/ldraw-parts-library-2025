@@ -1,11 +1,14 @@
-0 Plate  2 x  4 with Steering Axle Socket
+0 Car Wheel Holder Plate  2 x  4 for Tilt Steering
 0 Name: 69963.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+0 !HISTORY 2024-11-29 [MagFors] Update description
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
 
 1 16 -20 20 0 -1 0 0 0 -1 0 0 0 -1 stud4.dat
 0 BFC INVERTNEXT
@@ -214,7 +217,7 @@
 5 24 20.0022 28.0014 16 20.0022 28.0014 -16 19.9293 26.7276 -16 19.6677 29.6505 -16
 5 24 19.6677 29.6505 -16 19.6677 29.6505 16 20.0022 28.0014 -16 18.6988 31.0418 -17.1164
 5 24 18.6988 31.0418 17.1164 18.6988 31.0418 -17.1164 17.3293 32 -17.68 19.6677 29.6505 -16
-2 24 17.3293 32 17.68 17.3293 32 -17.68
+5 24 17.3293 32 17.68 17.3293 32 -17.68 18.6988 31.0418 -17.1164 16 32 -10
 
 1 16 22.8991 18.1009 0 0 -5.79827 2.82843 0 5.79827 2.82843 -4 0 0 2-4cylo.dat
 1 16 6.5 7.5 0 1.06066 9.60835 0 -1.06066 9.60835 0 0 0 1.5 box4o8a.dat

@@ -1,19 +1,22 @@
 0 ~Animal Tail Joint with Long Pin Connector - Connection Joint
 0 Name: s\40375s01.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 0 // Pin hole
 0 // Primitives
 0 BFC INVERTNEXT
 1 16 -20 0 0 0 40 0 0 0 10 -10 0 0 4-4cylo.dat
-1 16 -20 0 0 0 1 0 0 0 .5 .5 0 0 4-4rin20.dat
+1 16 -20 0 0 0 1 0 0 0 .5 .5 0 0 4-4ring20.dat
 1 16 -20 0 0 0 1 0 0 0 3.5 3.5 0 0 4-4ring3.dat
-1 16 20 0 0 0 -1 0 0 0 .5 .5 0 0 4-4rin20.dat
+1 16 20 0 0 0 -1 0 0 0 .5 .5 0 0 4-4ring20.dat
 1 16 20 0 0 0 -1 0 0 0 3.5 3.5 0 0 4-4ring3.dat
 1 16 -20 0 0 0 40 0 0 0 14 -14 0 0 5-16cylo.dat
 1 16 -20 0 0 0 40 0 0 0 14 14 0 0 1-8cylo.dat
@@ -77,7 +80,7 @@
 0 BFC INVERTNEXT
 1 16 0 0 -14 0 0 8 8 0 0 0 -8 0 2-4cylo.dat
 1 16 0 0 -30 1 0 0 0 0 -1 0 1 0 connhol3.dat
-1 16 0 0 -24 0 0 1 1 0 0 0 1 0 4-4rin10.dat
+1 16 0 0 -24 0 0 1 1 0 0 0 1 0 4-4ring10.dat
 1 16 0 0 -24 0 0 10 10 0 0 0 -11 0 4-4cyli.dat
 1 16 0 0 -24 0 0 -10 10 0 0 0 -1 0 4-4edge.dat
 1 16 -3.72305 8 -18 0 0 -3.72305 0 1 0 4 0 0 rect3.dat

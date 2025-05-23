@@ -1,12 +1,15 @@
 0 Minifig Body Dug without Arms with Sebulba Lavender Eyes and Tan Legs Pattern
 0 Name: 92755p01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 7962, set 9675, Pod racer, Tatooine
+0 !KEYWORDS BrickLink 92755pb01, pod racer, Rebrickable 92755pr0001, Set 7962
+0 !KEYWORDS set 9675, Tatooine
+
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\92755s01.dat

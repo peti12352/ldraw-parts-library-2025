@@ -1,13 +1,17 @@
 0 Dish  2 x  2 without Rim with Dark Tan Crescent Pattern
 0 Name: 2654bps1.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 2654pb015, Set 75318, The Child, Mandalorian, Baby Yoda
-0 !KEYWORDS Eye
+0 !KEYWORDS Baby Yoda, Bricklink 2654pb015, Eye, Mandalorian
+0 !KEYWORDS Rebrickable 2654pr0003, Set 75318, The Child
+
+0 !PREVIEW 16 0 0 0 1 0 0 0 -1 0 0 0 -1
+
+0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2654bs02.dat

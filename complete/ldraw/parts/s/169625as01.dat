@@ -1,13 +1,15 @@
 0 ~Coast Guard (1995) Logo with Three Red Horizontal Stripes and Life Saver on Blue Crest - Half
 0 Name: s\169625as01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-11-03 [Holly-Wood] Fixed color, added NOCLIP
 0 !HISTORY 2022-12-31 [MMR1988] Moved one quarter of Life Saver to another subpart
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
 
 0 // Main color
 4 16 -5.56 0 7.45 -4 0 7.3 -2.44 0 7.45 -7.06 0 7.9

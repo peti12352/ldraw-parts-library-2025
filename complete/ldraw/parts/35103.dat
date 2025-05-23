@@ -1,8 +1,8 @@
 0 Frame  2 x 16 x  6 with  3 Openings and  4 Studs on Front
 0 Name: 35103.dat
 0 Author: Bertrand Lequy [Berth]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP 57895.dat placement : -80 4.6 -15.25, 0 4.6 -15.25 and 80 4.6 -15.25
 0 !HELP 60616.dat,60621.dat,60623 and 60797.dat placement :
@@ -12,6 +12,8 @@
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Door
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 0 // drilled studs

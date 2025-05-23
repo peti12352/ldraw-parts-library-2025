@@ -1,12 +1,14 @@
 0 ~Animal Dog Dachshund Patternable Surfaces - Half
 0 Name: s\53075s03.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-10-11 [Holly-Wood] Flipped triangles
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
 
 0 // Eyes
 3 16 -3.05 -18.49 -35.2 -3.16 -17.08 -37.51 0 -18.36 -35.19

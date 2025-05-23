@@ -1,12 +1,14 @@
 0 ~Pattern Car Grille for Sticker  1.1 x  3.9 - Mask
 0 Name: s\004711bs01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-11-08 [RainbowDolphin] Created based on s\3010b20 by Chris Dee [cwdee]
+0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
+
 
 0 // Left light corners
 

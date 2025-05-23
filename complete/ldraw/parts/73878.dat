@@ -1,8 +1,8 @@
 0 Window Round Corner  3 x  3 x  2
 0 Name: 73878.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP place Window 1 at:
 0 !HELP 18.1773 0 -43.8843 .92388 0 -.38268 0 1 0 .38268 0 .92388 60601.dat
@@ -10,6 +10,8 @@
 0 !HELP 43.8843 0 -18.1773 -.38268 0 -.92388 0 1 0 -.92388 0 .38268 60601.dat
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\73878s01.dat

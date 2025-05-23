@@ -1,13 +1,15 @@
 0 ~Minifig Headdress Banana Shape without Patterned Areas, with Conditional Lines, Half
 0 Name: s\25977s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-10-03 [Holly-Wood] Sanded mesh
 0 !HISTORY 2021-10-10 [MMR1988] Flipped vertices, divided some warped quads which already contained condlines, fixed controlpoints for some condlines, added some condlines
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
 
 0 // Top Cone
 

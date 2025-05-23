@@ -1,10 +1,12 @@
 0 Wing  2 x  6 Left
 0 Name: 78443.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
 
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\78444s01.dat

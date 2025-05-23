@@ -1,12 +1,14 @@
 0 ~Minifig Helmet SW Clone Trooper Pilot Phase I Front Face with Yellow Markings and Black Visor Pattern - Half
 0 Name: s\61189ps2s01.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-03-14 [MagFors] Made some lines fatter
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+
 
 0 // Main
 3 16 10.0883 -5.8005 -7.642 11.496 -5.877 -5.184 10.033 -5.934 -7.5956

@@ -1,13 +1,15 @@
 0 Sticker  1 x  2.8 with Black Trapezoid on Blue Background Right
 0 Name: 6141955q.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Speed Champions, Ford, Mustang, GT, Set 75871
+0 !KEYWORDS Bricklink 75871stk01a, Brickowl 197362, Ford, GT, Mustang
+0 !KEYWORDS Rebrickable 24746, Set 75871, Speed Champions
 
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
 
 0 // Primitives
 1 16 10.55615 0 8.5 0 0 -1.5 0 -1 0 1.5 0 0 1-16chrd.dat
@@ -38,6 +40,9 @@
 4 16 -26.5 0 -10 26.5 0 -10 26.5 -.25 -10 -13.5 -.25 -10
 4 16 28 0 8.5 28 -.25 7.25 28 -.25 -8.5 28 0 -8.5
 3 16 28 0 8.5 28 -.25 8.5 28 -.25 7.25
+0 // Conditional lines
+5 24 9.9821 -.25 9.8859 9.9821 0 9.8859 10.5562 -.25 10 -27.0741 -.25 -2.4662
+5 24 -27.0741 -.25 -2.4662 -27.0741 0 -2.4662 -27.5607 -.25 -2.7914 9.9821 -.25 9.8859
 0 // Top face
 0 // Black faces
 4 0 26.5 -.25 -10 28 -.25 -8.5 28 -.25 7.25 9.25 -.25 7.25

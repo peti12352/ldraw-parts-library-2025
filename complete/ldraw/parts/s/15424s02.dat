@@ -1,10 +1,12 @@
 0 ~Minifig Hat Cowboy Type 2 - Half
 0 Name: s\15424s02.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
 
 
 3 16 0 13.761 29.469 0 11.505 29.861 11.769 11.171 27.396

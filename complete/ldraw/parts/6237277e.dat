@@ -1,14 +1,16 @@
 0 Sticker  1.8 x  1.8 with Yellow "5" on Red Panel on Yellow Background
 0 Name: 6237277e.dat
 0 Author: Alex Herrera [alanbrito98]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS set 21311, Voltron
 
 0 !HISTORY 2021-11-02 [Holly-Wood] Fixed comment and vertex
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
+
 
 0 // Box
 

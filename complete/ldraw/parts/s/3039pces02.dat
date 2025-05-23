@@ -1,10 +1,12 @@
 0 ~Slope Brick 45  2 x  2 with Radar and Disk Slot Black ON Logo Pattern
 0 Name: s\3039pces02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
 
 
 4 16 15.4658 17.1268 -27.1268 15.5255 16.9146 -26.9146 15.3003 16.8487 -26.8487 15.222 17.1268 -27.1268

@@ -1,13 +1,15 @@
 0 Minifig Head Female with Curly Eyes, Red Lips, Dark Orange Curles and Tiara Pattern
 0 Name: 3626bp4k.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3626bpx67, Queen, Maiden, Castle, Set 3739, Set 6091
-0 !KEYWORDS Set 6098
+0 !KEYWORDS BrickLink 3626px67, Castle, maiden, queen, Rebrickable 3626bpr9974
+0 !KEYWORDS Set 3739, Set 6091, Set 6098
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat

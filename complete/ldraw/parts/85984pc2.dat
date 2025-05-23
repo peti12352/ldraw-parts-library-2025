@@ -1,15 +1,17 @@
 0 Slope Brick 31  1 x  2 x  0.667 with Black Oval Dashboard with Silver, Medium Azure and Red Gauges Pattern
 0 Name: 85984pc2.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10295, Porsche, Bricklink 85984pb289, Car, Set 60283, Set 60288
-0 !KEYWORDS Set 60291, Set 31114
+0 !KEYWORDS Bricklink 85984pb289, Car, Porsche, Rebrickable 85984pr0021
+0 !KEYWORDS Set 10295, Set 31114, Set 60283, set 60288, Set 60291
 
 0 !HISTORY 2022-12-30 [MagFors] Corrected a bfc error
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\85984s01.dat
 3 16 -20 -4 -10 -18.94 -7.356 -4.4076 -19 -7.859 -3.5694

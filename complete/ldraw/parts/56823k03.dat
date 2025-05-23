@@ -1,8 +1,8 @@
 0 ~String Thin Twisted  0.6 mm Diameter - Single Winding for Drum
 0 Name: 56823k03.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Part Flexible_Section 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part Flexible_Section UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Basic Segment = BaSe
 0 !HELP Stepping: 1,628959276 Degrees
@@ -14,6 +14,8 @@
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 1 16 .015 -8.8 0 0 -.029666 -.99956 1 0 0 0 -.99956 .029666 56823k02.dat

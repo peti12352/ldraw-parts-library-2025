@@ -1,12 +1,14 @@
 0 Technic Peg Hole Negative for Alternate Beam Type 3 Top Half without Extensions
 0 Name: npeghol19.dat
 0 Author: Max Murtazin [SwampKryakwa]
-0 !LDRAW_ORG Unofficial_Primitive 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Primitive UPDATE 2023-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-11-20 [Holly-Wood] Added complementary conds, fixed overlap, rounded
+0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
+
 
 2 24 7.0711 5.5557 -1.6849 -7.0711 5.5557 -1.6849
 1 16 -7.0711 9 -10 0 14.14214 0 -9 0 0 0 0 9 3-16cyli.dat

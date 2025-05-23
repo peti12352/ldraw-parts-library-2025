@@ -1,8 +1,8 @@
 0 Minifig Helmet Space with Front Handle
 0 Name: 87781.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Visor 2447 needs a 2 degree rotation
 0 !HELP 1 47 0 .004 1.227 1 0 0 0 .99939 .0349 0 -.0349 .99939 2447.dat
@@ -10,10 +10,12 @@
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Galaxy Squad, Space Police III, Alien Conquest
+0 !KEYWORDS Alien Conquest, Galaxy Squad, Space Police III
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2021-10-25 [MagFors] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-08-26 [OrionP] Official Update 2024-07
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87781s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87781s01.dat

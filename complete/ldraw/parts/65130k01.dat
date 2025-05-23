@@ -1,13 +1,15 @@
 0 ~Strap  2 x 16 with End Rings - Ring End Segment
 0 Name: 65130k01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part Flexible_Section
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part Flexible_Section UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Sheet Plastic
-0 !KEYWORDS Band, Carrier, VIDIYO
+0 !KEYWORDS Band, carrier, VIDIYO
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
 
 
 0 // O-Ring
@@ -15,14 +17,19 @@
 1 16 0 0 0 20.7 0 0 0 5 0 0 0 20.7 48\4-4cylo.dat
 1 16 0 0 0 6.9 0 0 0 1 0 0 0 6.9 48\4-4ring3.dat
 1 16 0 5 0 6.9 0 0 0 -1 0 0 0 6.9 48\4-4ring3.dat
-1 16 0 2.5 0 27.6 0 0 0 27.77778 0 0 0 27.6 48\tm04o0900.dat
-1 16 0 2.5 0 27.6 0 0 0 -27.77778 0 0 0 27.6 48\tm04o0900.dat
-1 16 0 2.5 0 27.6 0 0 0 27.77778 0 0 0 -27.6 48\tm04o0900.dat
-1 16 0 2.5 0 27.6 0 0 0 -27.77778 0 0 0 -27.6 48\tm04o0900.dat
+
 1 16 0 2.5 0 0 0 -27.6 0 -27.77778 0 -27.6 0 0 48\tm08o0900.dat
 1 16 0 2.5 0 0 0 -27.6 0 27.77778 0 -27.6 0 0 48\tm08o0900.dat
 1 16 0 2.5 0 0 0 -27.6 0 -27.77778 0 27.6 0 0 48\tm08o0900.dat
 1 16 0 2.5 0 0 0 -27.6 0 27.77778 0 27.6 0 0 48\tm08o0900.dat
+1 16 0 2.5 0 0 0 27.6 0 -27.77778 0 -27.6 0 0 48\tm08o0900.dat
+1 16 0 2.5 0 0 0 27.6 0 27.77778 0 -27.6 0 0 48\tm08o0900.dat
+1 16 0 2.5 0 0 0 27.6 0 -27.77778 0 27.6 0 0 48\tm08o0900.dat
+1 16 0 2.5 0 0 0 27.6 0 27.77778 0 27.6 0 0 48\tm08o0900.dat
+1 16 0 2.5 0 27.6 0 0 0 -27.77778 0 0 0 27.6 48\tm08o0900.dat
+1 16 0 2.5 0 27.6 0 0 0 27.77778 0 0 0 27.6 48\tm08o0900.dat
+1 16 0 2.5 0 27.6 0 0 0 -27.77778 0 0 0 -27.6 48\tm08o0900.dat
+1 16 0 2.5 0 27.6 0 0 0 27.77778 0 0 0 -27.6 48\tm08o0900.dat
 
 1 16 0 5 0 -27.6 0 0 0 -1 0 0 0 -27.6 48\1-16tang.dat
 1 16 0 5 0 -27.6 0 0 0 -1 0 0 0 27.6 48\1-16tang.dat

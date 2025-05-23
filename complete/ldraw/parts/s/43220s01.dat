@@ -1,11 +1,12 @@
 0 ~Minifig Legs Joined with Spring Holes Half
 0 Name: s\43220s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
 
 1 16 10 28 0 -1 0 0 0 -1.375 0 0 0 1 stud23d.dat
 2 24 19.5 28 10 1.5 28 10
@@ -131,3 +132,6 @@
 1 16 10 18.75 6 0 0 6 3.75 0 0 0 1 0 rect2p.dat
 4 16 16 15 6 16 22.5 6 16 22.5 -2 16 15 -2
 4 16 4 22.5 6 4 15 6 4 15 -2 4 22.5 -2
+5 24 19.23 20 -5 18.9257 11 6 18.7592 6.2912 5.999 19.5 28 10
+5 24 18.546 0 8.75 18.755 6.187 -6.187 18.546 0 -8.75 18.7816 6.8452 -4.9994
+5 24 1 0 -3 1 0 3 1.3827 -1.1481 2.7717 1 1.1481 2.7717

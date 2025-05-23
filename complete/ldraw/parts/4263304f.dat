@@ -1,13 +1,15 @@
 0 Sticker  0.9 x  1.9 with Horizontal Grille
 0 Name: 4263304f.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10133, Sante Fe, BNSF, Bricklink 10133stk01, Rebrickable 53049
-0 !KEYWORDS Brickowl 912944
+0 !KEYWORDS BNSF, Bricklink 10133stk01, Brickowl 912944, Rebrickable 53049
+0 !KEYWORDS Sante Fe, Set 10133
+
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
 
 
 1 16 0 -.25 0 1 0 0 0 1 0 0 0 1 s\4188571cs01.dat

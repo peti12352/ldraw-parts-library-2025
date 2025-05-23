@@ -1,15 +1,17 @@
 0 Brick  1 x  4 x  3 with Metallic Gold "50" and "LUCASFILM Ltd" Pattern
 0 Name: 49311ps0.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, R2-D2, Set 75308, Bricklink 49311pb14
-0 !KEYWORDS Rebrickable 49311pr0009, Brickowl 566773
+0 !KEYWORDS BrickLink 49311pb014, R2-D2, Rebrickable 49311pr0009, Set 75308
+0 !KEYWORDS Star Wars
 
 0 !HISTORY 2023-01-14 [Holly-Wood] Closed gap, added keywords
+0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\49311s01.dat
 

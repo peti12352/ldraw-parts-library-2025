@@ -1,12 +1,15 @@
 0 Tile  1 x  1 Round with Sloth Face Pattern
 0 Name: 98138p29.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 41913, Dots, Mega Pack, Bricklink 98138pb159
+0 !KEYWORDS Bricklink 98138pb159, Dots, Mega Pack, Rebrickable 98138pr0177
+0 !KEYWORDS Set 41913
+
+0 !HISTORY 2024-08-26 [OrionP] Official Update 2024-07
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s02.dat

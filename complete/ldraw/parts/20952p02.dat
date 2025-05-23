@@ -1,12 +1,14 @@
 0 Brick Round  1.4 x  1.4 x  0.667 Dome Top with SW BB-8 Droid Head with Large Photoreceptor Pattern
 0 Name: 20952p02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 20952pb03, Set 75297, Star Wars
+0 !KEYWORDS Bricklink 20952pb03, Rebrickable 20952pr0005, Set 75297, Star Wars
+
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20952s01.dat

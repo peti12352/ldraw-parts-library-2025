@@ -1,10 +1,13 @@
-0 ~Sticker  0.8 x  0.8 with White "919" on German Flag on White Background - Number "9" with Background
+0 ~Sticker  1.8 x  1.8 with White "919" on German Flag on White Background - Number "9" with Background
 0 Name: s\6148328ns01.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 0 // Primitives
@@ -23,15 +26,15 @@
 1 4 0 0 -2.475 0 0 -1.6875 0 1 0 -1.6875 0 0 1-8chrd.dat
 1 4 0 0 -2.475 0 0 1.6875 0 1 0 -1.6875 0 0 3-16chrd.dat
 1 0 0 0 -2.475 0 0 -1.6875 0 1 0 -1.6875 0 0 1-8tndis.dat
-1 0 0 0 -2.475 0 0 .3375 0 1 0 -.3375 0 0 3-16rin5.dat
-1 0 0 0 -2.475 0 0 .3375 0 1 0 -.3375 0 0 3-16rin6.dat
+1 0 0 0 -2.475 0 0 .3375 0 1 0 -.3375 0 0 3-16ring5.dat
+1 0 0 0 -2.475 0 0 .3375 0 1 0 -.3375 0 0 3-16ring6.dat
 1 0 0 0 -2.475 0 0 -2.3625 0 1 0 -2.3625 0 0 1-8chrd.dat
 1 15 0 0 -2.475 0 0 -2.3625 0 1 0 -2.3625 0 0 1-8tndis.dat
 1 15 0 0 -2.475 0 0 2.3625 0 1 0 -2.3625 0 0 3-16tndis.dat
 1 15 0 0 -2.475 0 0 -4.725 0 1 0 -4.725 0 0 3-16chrd.dat
 1 15 0 0 -2.475 0 0 4.725 0 1 0 -4.725 0 0 3-16chrd.dat
-1 0 0 0 -2.475 0 0 -.675 0 1 0 -.675 0 0 3-16rin7.dat
-1 0 0 0 -2.475 0 0 .675 0 1 0 -.675 0 0 3-16rin7.dat
+1 0 0 0 -2.475 0 0 -.675 0 1 0 -.675 0 0 3-16ring7.dat
+1 0 0 0 -2.475 0 0 .675 0 1 0 -.675 0 0 3-16ring7.dat
 1 14 0 0 -2.475 0 0 -5.4 0 1 0 -5.4 0 0 3-16tndis.dat
 1 14 0 0 -2.475 0 0 5.4 0 1 0 -5.4 0 0 3-16tndis.dat
 0 // Top faces

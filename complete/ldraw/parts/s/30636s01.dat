@@ -1,10 +1,12 @@
 0 ~Hose Reel  1 x  4 x  1.667 Holder with two Pins - Half
 0 Name: s\30636s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 1 16 -20 0 0 8 0 0 0 1 0 0 0 8 4-4edge.dat

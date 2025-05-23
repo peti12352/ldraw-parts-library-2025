@@ -1,17 +1,20 @@
 0 Sticker  1.9 x  1.9 with "G. 45t" Locomotive Weight Informations
 0 Name: 191906a.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 7730, Locomotive, Engine, Train
+0 !KEYWORDS Bricklink 7730stk01a, Bricklink 7730stk01b, Brickowl 372011, Engine
+0 !KEYWORDS locomotive, Rebrickable 191905, Set 7730, Train
 
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
 
 0 // Font: Swiss 721 BT Bold
 
 1 16 0 -0.25 0 19 0 0 0 0.25 0 0 0 19 box5-12.dat
+0 BFC NOCLIP
 4 15 -15.9 -0.25 8.48 -15.6 -0.25 7.58 -14.27 -0.25 8.22 -14.44 -0.25 8.82
 4 15 -16.01 -0.25 9.52 -15.9 -0.25 8.48 -14.44 -0.25 8.82 -14.5 -0.25 9.53
 4 15 -14.27 -0.25 8.22 -15.6 -0.25 7.58 -15.09 -0.25 6.83 -13.97 -0.25 7.73
@@ -191,6 +194,7 @@
 4 15 15.93 -0.25 -12.54 15.93 -0.25 -11.49 15.59 -0.25 -11.49 15.47 -0.25 -12.55
 4 15 15.13 -0.25 -7.31 15.13 -0.25 -8.28 15.93 -0.25 -8.28 15.93 -0.25 -7.31
 3 15 15.22 -0.25 -11.43 14.47 -0.25 -12.49 15.14 -0.25 -12.57
+0 BFC CLIP
 3 16 5.06 -0.25 11.46 3.21 -0.25 8.53 5.06 -0.25 8.53
 4 16 9.21 -0.25 -1.51 9.83 -0.25 -2.49 10.29 -0.25 -2.56 10.29 -0.25 -0.47
 4 16 9.28 -0.25 -1.96 9.49 -0.25 -2.29 9.83 -0.25 -2.49 9.21 -0.25 -1.51

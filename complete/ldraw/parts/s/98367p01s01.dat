@@ -1,10 +1,12 @@
 0 ~Minifig Shield Rectangular Curved with Stud with Gold Lightning Wings and Arrows Pattern - 1/4
 0 Name: s\98367p01s01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
 
 
 3 82 0 -26.1 -17.18779 -1.9 -22.8 -17.04642 -0.5 -22.7 -17.15113

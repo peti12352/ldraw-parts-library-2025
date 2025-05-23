@@ -1,10 +1,12 @@
 0 ~Sheet Plastic  8.5 x  7 Motorcycle Windscreen Back (Formed)
 0 Name: s\67144c01s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 3 16 38.9466 52.2243 54.7721 39.1476 49.9891 18.1914 38.1228 45.161 15.3163

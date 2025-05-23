@@ -2,9 +2,11 @@
 0 Name: 3755a.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 3755, Rebrickable 3755
 
 0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
 0 !HISTORY 2004-11-15 [mikeheide] Made BFC Compliant
@@ -14,6 +16,7 @@
 0 !HISTORY 2020-07-14 [RainbowDolphin] Subfiled for Pattern
 0 !HISTORY 2020-08-13 [PTadmin] Renamed from 3755
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 0 // Part without a face
 

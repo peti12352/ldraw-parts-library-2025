@@ -1,11 +1,12 @@
-0 ~Car Track 24 x  16 x  2 V-Branch - End Piece Stud Support
+0 ~Car Track 24 x  16 x  2 V-Branching, End Piece Stud Support
 0 Name: s\44773s02.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
 
 3 16 -220 48 -80 -220 40 -80 -220 40 -76
 4 16 -220 48 -80 -220 40 -76 -220 40 -64 -220 48 -60
@@ -17,7 +18,6 @@
 3 16 -220 40 -64 -224 40 -64 -220 40 -60
 2 24 -240 40 -40 -240 40 -80
 2 24 -220 40 -76 -236 40 -76
-2 24 -236 40 -76 -236 40 -40
 2 24 -224 40 -64 -220 40 -64
 2 24 -220 40 -64 -220 40 -60
 
@@ -44,7 +44,6 @@
 2 24 -236 4 -64 -236 4 -76
 2 24 -236 4 -76 -225 4 -76
 2 24 -224 28 -64 -224 40 -64
-2 24 -236 28 -64 -224 28 -64
 
 1 16 -222 40 -70 0 0 2 0 -1 0 1.5 0 0 rect2p.dat
 1 16 -222 22.5 -68.5 0 0 -2 17.5 0 0 0 -1 0 rect.dat

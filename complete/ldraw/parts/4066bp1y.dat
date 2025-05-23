@@ -1,16 +1,18 @@
 0 Duplo Brick  1 x  2 x  2 with Bucket of Carrots Pattern
 0 Name: 4066bp1y.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Farm, Stable, bricklink 4066pb039, Set 1751, Set 2326, Set 2394
-0 !KEYWORDS Set 2435, Set 2438, Set 2444, Set 2445, Set 2694, Set 2695, Set 2698
-0 !KEYWORDS Set 2699, Set 2761, Set 2791, Set 2805, Set 9133, Set 9134, Set 9149
-0 !KEYWORDS Set 9173, Set 9185
+0 !KEYWORDS bricklink 4066pb039, Farm, Rebrickable 4066pr0114, Set 1751
+0 !KEYWORDS Set 2326, Set 2394, Set 2435, Set 2438, Set 2444, Set 2445, Set 2694
+0 !KEYWORDS Set 2695, Set 2698, Set 2699, Set 2761, Set 2791, Set 2805, Set 9133
+0 !KEYWORDS Set 9134, Set 9149, Set 9173, Set 9185, Stable
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat

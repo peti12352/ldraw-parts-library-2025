@@ -1,10 +1,12 @@
 0 ~Wheel Cover 28 Spoke,  2 Spokes
 0 Name: s\37195s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
 
 
 3 16 -4.153 -10.2061 -5.5 -3.7758 -10.0717 -4.2 -2.1153 -14.1924 -5.6

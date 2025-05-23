@@ -1,10 +1,12 @@
 0 ~Wheel Rim 20 x 30 with  6 Dual Spokes and External Ribs - Spoke Half
 0 Name: s\56145s03.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
 
 
 2 24 3.6347 27.5215 7.2524 3.6347 27.5215 9

@@ -1,14 +1,16 @@
 0 ~Brick 24 x 24 with 12 x 12 Quarter Circle Cutout, Common Details
 0 Name: s\6161s03.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 0 !HISTORY 2022-03-25 [GeraldLasser] Subfiled for use in 6161 and 47115
 0 !HISTORY 2022-03-25 [GeraldLasser] Added missing Edge Lines and Details on the Inside, applied Rectifier
+0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06
+
 
 1 16 -4 14 -218 0 1 0 10 0 0 0 0 -18 rect3.dat
 1 16 -120 14 -236 -116 0 0 0 0 -10 0 -1 0 rect2p.dat

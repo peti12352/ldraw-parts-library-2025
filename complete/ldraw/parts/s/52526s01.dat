@@ -1,10 +1,12 @@
 0 ~Hinge Tile  2 x  4 with Ribs Locking without Rear Reinforcements - Hinge  7 Teeth
 0 Name: s\52526s01.dat
 0 Author: Marc Giraudet [Mad_Marc]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
 
 
 1 16 0 -2 -15 6.5 0 0 0 0 -4 0 1 0 rect.dat

@@ -1,11 +1,12 @@
 0 Scala Platform  7 x 14 x  1.333 With 8 Legs
 0 Name: 33195.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\33195s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\33195s01.dat
@@ -136,7 +137,6 @@
 1 16 140 8 0 -1.414214 0 -1.414214 0 -1 0 1.414214 0 -1.414214 1-4ring3.dat
 4 16 136 8 -6.7641 134.3431 8 -5.6569 135.7574 8 -4.2426 137.5 8 -5.4072
 4 16 136 8 6.7641 137.5 8 5.4072 135.7574 8 4.2426 134.3431 8 5.6569
-3 16 136 8 -17 136 8 -6.7641 137.5 8 -5.4072
 
 4 16 136 8 -17 136 8 -6.7641 137.5 8 -5.4072 140 8 -70
 4 16 137.5 8 5.4072 136 8 6.7641 136 8 17 140 8 70

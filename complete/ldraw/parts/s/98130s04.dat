@@ -1,10 +1,12 @@
 0 ~Minifig Kendo Mask - Half without Patternable Area
 0 Name: s\98130s04.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
 
 
 3 16 1.361 11.322 18.414 .504 16.015 18.076 0 11.498 18.474

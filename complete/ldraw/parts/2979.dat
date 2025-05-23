@@ -2,15 +2,18 @@
 0 Name: 2979.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !CATEGORY Obsolete
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2013-03-02 [MagFors] Changed colour 383 to 494 (real metal)
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 0 !HISTORY 2017-05-14 [MagFors] Made obsolete, to get rid of cable stub
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 2979a.dat
 0 // wire stump

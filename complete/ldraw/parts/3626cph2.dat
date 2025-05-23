@@ -1,15 +1,17 @@
 0 Minifig Head with Lightning Scar, Glasses, Black Eyebrows and Smile / Angry 2-Sided Pattern
 0 Name: 3626cph2.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3626cpb2413, Set 75981, Set 75980, Set 75945, Set 75967
-0 !KEYWORDS Set 75947, Set 76388, Set 75969, Set 75948, Set 76398, Set 76396
-0 !KEYWORDS Set 75966, Set 40419, Set 75946, Set 75957, Set 75965, Set 76407
-0 !KEYWORDS Set 40500, Harry Potter
+0 !KEYWORDS BrickLink 3626pb2413, Harry Potter, Rebrickable 3626cpr2903
+0 !KEYWORDS Set 40419, Set 40500, Set 75945, Set 75946, Set 75947, Set 75948
+0 !KEYWORDS Set 75957, Set 75965, Set 75966, Set 75967, Set 75969, Set 75980
+0 !KEYWORDS Set 75981, Set 76388, Set 76396, Set 76398, Set 76407
+
+0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat

@@ -1,27 +1,32 @@
-0 Minifig Torso with Race Suit with Ford Logo, Darkblue Crosses and Dots and Black Stripes Pattern
+0 Minifig Torso with Race Suit with Ford Logo, Dark Blue Crosses and Dots and Black Stripes Pattern
 0 Name: 973py3.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Speed champions, Sport, Uniform, Jacket, Set 75871
-0 !KEYWORDS Bricklink 973pb2260
+0 !KEYWORDS Bricklink 973pb2260, Brickowl 686619, Jacket
+0 !KEYWORDS Rebrickable 973c05h27pr3282, Set 75871, Set 75875, Set 75881
+0 !KEYWORDS Speed Champions, sport, Uniform
 
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
 
+0 // Logo primitives
+1 16 0 15 10 -1.55 0 0 0 0 -1.55 0 -1 0 logo-ford-box-quarter.dat
+1 16 0 15 10 1.55 0 0 0 0 -1.55 0 -1 0 logo-ford-box-quarter.dat
+1 1 0 15 10 -1.55 0 0 0 0 -1.55 0 -1 0 logo-ford-oval.dat
+1 15 0 15 10 -1.55 0 0 0 0 -1.55 0 -1 0 logo-ford-oval-text.dat
+1 16 0 15 10 1.55 0 0 0 0 1.55 0 -1 0 s\973py3s01.dat
+1 16 0 15 10 -1.55 0 0 0 0 1.55 0 -1 0 s\973py3s01.dat
+1 16 8.26 13.22 -10 .685 0 0 0 0 -.685 0 1 0 logo-ford-box-quarter.dat
+1 16 8.26 13.22 -10 -.685 0 0 0 0 -.685 0 1 0 logo-ford-box-quarter.dat
+1 1 8.26 13.22 -10 .685 0 0 0 0 -.685 0 1 0 logo-ford-oval.dat
+1 15 8.26 13.22 -10 .685 0 0 0 0 -.685 0 1 0 logo-ford-oval-text.dat
+1 16 8.26 13.22 -10 -.685 0 0 0 0 .685 0 1 0 logo-ford-box-quarter.dat
+1 16 8.26 13.22 -10 .685 0 0 0 0 .685 0 1 0 logo-ford-box-quarter.dat
 0 // Subparts
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-1 16 0 15 10 1.55 0 0 0 0 1.55 0 -1 0 s\logofordb02.dat
-1 16 0 15 10 -1.55 0 0 0 0 1.55 0 -1 0 s\logofordb02.dat
-1 16 0 15 10 -1.55 0 0 0 0 -1.55 0 -1 0 s\logofordl01.dat
-1 16 0 15 10 1.55 0 0 0 0 -1.55 0 -1 0 s\logofordb01.dat
-1 16 0 15 10 -1.55 0 0 0 0 -1.55 0 -1 0 s\logofordb01.dat
-1 16 8.26 13.22 -10 .685 0 0 0 0 .685 0 1 0 s\logofordb01.dat
-1 16 8.26 13.22 -10 -.685 0 0 0 0 .685 0 1 0 s\logofordb01.dat
-1 16 8.26 13.22 -10 .685 0 0 0 0 -.685 0 1 0 s\logofordl01.dat
-1 16 8.26 13.22 -10 .685 0 0 0 0 -.685 0 1 0 s\logofordb01.dat
-1 16 8.26 13.22 -10 -.685 0 0 0 0 -.685 0 1 0 s\logofordb01.dat
 0 // Neck
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 0 // Back

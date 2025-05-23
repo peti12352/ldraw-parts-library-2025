@@ -1,10 +1,12 @@
 0 ~Minifig Weapon Web Effect  4L Spreading with Bars at Both Ends Half
 0 Name: s\36083fs01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
 
 
 4 16 2.647 -23.132 1.5 2.582 -27.287 1.5 3.718 -26.322 1.5 3.076 -23.082 1.5

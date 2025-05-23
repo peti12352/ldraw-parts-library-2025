@@ -1,10 +1,12 @@
 0 ~Minifig Body Armour Vest - Half Shoulder
 0 Name: s\15423s02.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
 
 
 4 16 -6.597 -1.96 -14.914 -13.78 -1.887 -14.8 -13.681 1.305 -15.553 -6.583 1.081 -15.635

@@ -1,14 +1,16 @@
 0 Minifig Body Armour Vest with "ACU" Pattern
 0 Name: 15423p01.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Neckwear
-0 !KEYWORDS Bricklink 15423pb02, Set 75919, Set 75915, Set 75917, Set 75918
-0 !KEYWORDS Set 71205, Jurassic World
+0 !KEYWORDS Bricklink 15423pb02, Jurassic world, Rebrickable 15423pr0002
+0 !KEYWORDS Set 71205, Set 75915, Set 75917, Set 75918, Set 75919
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\15423s01.dat

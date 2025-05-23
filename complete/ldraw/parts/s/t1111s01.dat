@@ -1,10 +1,13 @@
 0 ~| Circuit Cubes Propeller  3 Blade 10.1 Diameter - 1/3
 0 Name: s\t1111s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
 
 
 0 BFC INVERTNEXT
@@ -31,9 +34,9 @@
 0 BFC INVERTNEXT
 1 16 0 0 -6 97 0 0 0 0 -97 0 7 0 48\1-3cylo.dat
 1 16 0 0 -6 101 0 0 0 0 -101 0 7 0 48\1-3cylo.dat
-1 16 0 0 -6 4.04167 0 0 0 0 -4.04167 0 1 0 48\1-4rin24.dat
+1 16 0 0 -6 4.04167 0 0 0 0 -4.04167 0 1 0 48\1-4ring24.dat
 1 16 0 0 -6 0 0 -4.04167 -4.04167 0 0 0 1 0 48\1-12ring24.dat
-1 16 0 0 1 4.04167 0 0 0 0 -4.04167 0 -1 0 48\1-4rin24.dat
+1 16 0 0 1 4.04167 0 0 0 0 -4.04167 0 -1 0 48\1-4ring24.dat
 1 16 0 0 1 0 0 -4.04167 -4.04167 0 0 0 -1 0 48\1-12ring24.dat
 4 16 -52.8301 -81.5045 -6 -11.3301 -9.6244 -6 -6.8095 -12.2344 -5.6006 -48.5 -84.0045 -5.6175
 4 16 -48.5 -84.0045 -5.6175 -6.8095 -12.2344 -5.6006 -2.3901 -14.7859 -4.4231 -43.865 -86.6805 -4.4164

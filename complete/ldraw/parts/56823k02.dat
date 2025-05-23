@@ -1,8 +1,8 @@
 0 ~String Thin Twisted  0.6 mm Diameter 3-Ply - Mid Segment
 0 Name: 56823k02.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Part Flexible_Section 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part Flexible_Section UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP These help lines apply equally to the end and the middle segment.
 0 !HELP The segment has a height of 0.5 ldu and an internal twist of 22.5°.
@@ -18,6 +18,8 @@
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 0 // Body

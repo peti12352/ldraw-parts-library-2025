@@ -1,10 +1,12 @@
 0 ~Electric Hub Luigi Head Half
 0 Name: s\u9324s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
 
 
 4 16 4.379 82.423 -29.7 0 82.434 -29.7 0 84.513 -28.771 4.833 84.496 -28.785

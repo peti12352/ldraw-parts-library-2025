@@ -1,12 +1,15 @@
 0 Sticker  1.1 x  2.9 with Black "1807 1872" on White Background
 0 Name: 190765i.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 1592, Town square, Castle, Statue
+0 !KEYWORDS Bricklink 1592.1stk01, Brickowl 41924, Castle, Rebrickable 190765
+0 !KEYWORDS set 1592, Statue, Town Square
+
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
 
 
 1 16 0 -0.25 0 29 0 0 0 0.25 0 0 0 11 box5-12.dat

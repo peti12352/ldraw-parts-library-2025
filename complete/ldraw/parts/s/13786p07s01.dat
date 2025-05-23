@@ -1,10 +1,12 @@
 0 ~Animal Cat Standing Looking Forward Tan Breast Pattern
 0 Name: s\13786p07s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
 
 
 4 19 -0.281 -21.589 -9.083 -0.4024 -27.26 -8.8249 -0.69 -26.73 -8.828 -0.9 -25.89 -8.8502

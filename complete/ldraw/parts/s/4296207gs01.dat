@@ -1,10 +1,12 @@
 0 ~Sticker 0.8 x  0.9 with White "CLASS"
 0 Name: s\4296207gs01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
 
 
 1 16 0 -.25 0 9 0 0 0 .25 0 0 0 8 box5-12.dat

@@ -1,13 +1,15 @@
 0 Sticker  0.5 x  1.8 with Octan Logo without Border on Transparent Background (Formed)
 0 Name: 165395ec01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 6551, Raceway, Oil, Fuel, Gas, Bricklink 6551stk01
-0 !KEYWORDS Rebrickable 165395, Brickowl 930700
+0 !KEYWORDS Bricklink 6551stk01, Brickowl 930700, Fuel, Gas, oil, Raceway
+0 !KEYWORDS Rebrickable 165395, Set 6551
+
+0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
 
 
 3 16 .5444 -.1418 -1.895 .7671 -.0975 -2.0467 .3955 -.1714 -1.6679

@@ -1,10 +1,12 @@
 0 ~Technic Disc  3 x  3 with Axlehole with Dark Bluish Grey Hubcap Pattern - 1/8
 0 Name: s\2723p02s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
 
 
 4 16 27.96 3 3.68 28.2 3 0 30 3 0 29.742 3 3.915

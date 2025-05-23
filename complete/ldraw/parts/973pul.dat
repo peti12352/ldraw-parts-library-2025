@@ -1,13 +1,15 @@
 0 Minifig Torso with Dark Purple Shirt, Zipper and Red Triangle Pattern
 0 Name: 973pul.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 973pb3899, Set 10273, Set 80109, Set 70435, Set 60329
-0 !KEYWORDS Set 60290, Set 60313, Set 80020
+0 !KEYWORDS Bricklink 973pb3899, Set 10273, Set 60290, Set 60313, Set 60329
+0 !KEYWORDS Set 70435, Set 80020, Set 80109
+
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat

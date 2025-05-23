@@ -1,12 +1,15 @@
 0 Slope Brick 65  2 x  1 x  2 with Silver Star and Bright Light Blue Triangle Pattern
 0 Name: 60481ap01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Disco Kitty, Shoe, Bricklink 60481pb007, set 70828, set 70848
+0 !KEYWORDS Boot, Bricklink 60481pb007, Disco Kitty, Rebrickable 60481pr0001
+0 !KEYWORDS Set 70828, Set 70848, Shoe
+
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\60481as01.dat

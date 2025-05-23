@@ -1,12 +1,14 @@
 0 ~Electric  9V Battery Box  4 x  8 x  2.333 Cover with "POLICE" and Black Stripes Pattern
 0 Name: 4760p03.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Night Patroller, set 6430, bricklink 4760c00pb01
+0 !KEYWORDS bricklink 4760c00pb01, Night Patroller, Set 6430
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4760s01.dat

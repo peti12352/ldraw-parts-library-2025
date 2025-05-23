@@ -1,10 +1,12 @@
 0 ~Plate  9 x  9 Heart Shape - Curved Sidewall  1/  8
 0 Name: s\65486s01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 1 16 52.4666 6 24.4653 -1.8094 0 0 0 0 -2 -.8437 -1 0 rect.dat

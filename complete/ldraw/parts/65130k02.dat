@@ -1,13 +1,15 @@
 0 ~Strap  2 x 16 with End Rings - Strap Segment
 0 Name: 65130k02.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part Flexible_Section 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part Flexible_Section UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Sheet Plastic
-0 !KEYWORDS Band, Carrier, VIDIYO
+0 !KEYWORDS Band, carrier, VIDIYO
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
 
 
 1 16 4 2.5 17.5 0 -8 0 2.5 0 0 0 0 2.5 2-4cyli.dat

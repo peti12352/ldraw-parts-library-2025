@@ -1,17 +1,19 @@
 0 Figure Friends Hair Decoration, Bow
 0 Name: 94717.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Figure Accessory
-0 !KEYWORDS hair accessories, pet, multipack 92355, animal show
-0 !KEYWORDS grooming supplies
+0 !KEYWORDS animal show, BrickLink 92355d, grooming supplies, hair accessories
+0 !KEYWORDS Multipack 92355, pet
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2020-09-25 [RainbowDolphin] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
+
 
 0 // Pin
 1 16 0 0 0 2 0 0 0 -5.5 0 0 0 2 4-4cylc.dat

@@ -1,13 +1,15 @@
 0 ~Minifig Hair Swept Back Pointed Ears
 0 Name: s\93230s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2021-05-01 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
+
 
 3 16 -14.524 8.616 -5.211 -14.184 9.361 -3.953 -11.7 10.322 -5.584
 3 16 -14.184 9.361 -3.953 -12.325 10.492 -4.4066 -11.7 10.322 -5.584

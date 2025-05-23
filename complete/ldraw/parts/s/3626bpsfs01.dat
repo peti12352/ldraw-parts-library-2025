@@ -1,10 +1,12 @@
 0 ~Minifig Head with Straight Smile and Black Curved Eyebrows Pattern - Half
 0 Name: s\3626bpsfs01.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2025-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-04-27 [OrionP] Official Update 2025-04
 
 
 4 0 -5.7 8.45 -11.5262 -5.35 8.2 -11.7602 -5.75 7.65 -11.4928 -6.2 7.9 -11.1921

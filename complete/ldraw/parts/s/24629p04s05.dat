@@ -1,10 +1,12 @@
 0 ~Minifig Head Mouse Eye Area with Black Eye and Eyelash Pattern
 0 Name: s\24629p04s05.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 3 16 2.5 -34.7 -11.0927 1 -33.3 -12.9418 4.252 -33.109 -12.587

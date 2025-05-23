@@ -1,13 +1,15 @@
 0 Dome  4 x  4 Smooth with R2-D2 Droid Pattern
 0 Name: 86500p01.dat
 0 Author: Fredrik Hareide [fhareide]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Sphere
-0 !KEYWORDS Bricklink 86500pb04, Set 30611, Star Wars
+0 !KEYWORDS Bricklink 86500pb04, Rebrickable 86500pr0003, Set 30611, Star Wars
+
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\86500s02.dat

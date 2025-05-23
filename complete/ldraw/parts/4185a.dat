@@ -2,9 +2,11 @@
 0 Name: 4185a.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 4185, Rebrickable 4185
 
 0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
@@ -13,6 +15,7 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2017-01-21 [MMR1988] Renamed from 4185 and completely reworked
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4185as01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\4185as01.dat

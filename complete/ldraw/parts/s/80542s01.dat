@@ -1,10 +1,12 @@
 0 ~Tyre 20 / 33 x 62 Motorcycle Tread  1/24
 0 Name: s\80542s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
 
 
 1 16 4.507275 -92.7263 -4.2378 -3.57645 0 -0.0654 -0.32925 0 0.74715 1.7776 1 0 rect.dat

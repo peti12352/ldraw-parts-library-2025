@@ -1,13 +1,15 @@
-0 Spring for Brick  2 x  4 x  5 Spring Loaded (Compressed)
+0 ~Spring for Brick  2 x  4 x  5 Spring Loaded (Compressed)
 0 Name: u9335-f2.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
 
+0 !HISTORY 2024-10-27 [Holly-Wood] Added conds
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
 
 2 24 -8.555 1.5 0 -7.908 1.699 3.253
 2 24 -9.305 .75 0 -8.601 .949 3.54

@@ -1,10 +1,12 @@
 0 ~Windscreen  7 x  6 x  1.333 - Top Surface Half
 0 Name: s\80222s03.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 3 16 39.569 0.303 -30.692 0 -0.143 -35.542 22.639 1.999 -59.153

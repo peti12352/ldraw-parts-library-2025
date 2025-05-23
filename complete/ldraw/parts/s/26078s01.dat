@@ -1,13 +1,15 @@
 0 ~Animal Dog Terrier Structure Half
 0 Name: s\26078s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-10-05 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2021-07-04 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
 
 3 16 0 -44.317 -17.704 0 -42.066 -18.255 2.54 -41.553 -17.887
 3 16 6.538 -31.471 -18.715 6.789 -34.839 -19.208 5.715 -35.174 -22.447

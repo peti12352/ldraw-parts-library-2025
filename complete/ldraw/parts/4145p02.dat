@@ -1,12 +1,16 @@
 0 ~Duplo Brick  1 x  4 x  3 with Black Clock Face Pattern
 0 Name: 4145p02.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
+0 !KEYWORDS Bricklink 4145c01pb01, Brickowl 771110, Rebrickable 4145c01pr0001
+0 !KEYWORDS Set 1045, Set 2645, set 2770, Set 9161
+
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4145s01.dat

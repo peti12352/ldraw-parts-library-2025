@@ -1,13 +1,16 @@
 0 ~Duplo Roof Spire Half  4.5 x  2 x  4 Half
 0 Name: s\98238s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-12 {LEGO/Unity Microgame} Original part shape
 0 !HISTORY 2021-05-28 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
+
 
 2 24 75.697 192 16 75.697 179 16
 4 16 85.153 179 16.636 75.697 179 16 80.345 179 20 85.153 179 20
@@ -311,7 +314,7 @@
 0 BFC INVERTNEXT
 1 16 40 191 20 0 0 -14 0 -12 0 -14 0 0 3-16cylo.dat
 1 16 40 191 20 0 0 -16 0 -12 0 -16 0 0 3-16cylo.dat
-1 16 40 191 20 0 0 -2 0 -1 0 -2 0 0 3-16rin7.dat
+1 16 40 191 20 0 0 -2 0 -1 0 -2 0 0 3-16ring7.dat
 2 24 24.7954 179 16 25.2176 179 13.8768
 2 24 24.7954 191 16 25.2176 191 13.8768
 1 16 26.9304 185 15.3211 0 -1 -0.135 6 0 0 0 0 0.6789 rect3.dat
@@ -320,7 +323,7 @@
 0 BFC INVERTNEXT
 1 16 40 191 20 0 0 14 0 -12 0 -14 0 0 3-16cylo.dat
 1 16 40 191 20 0 0 16 0 -12 0 -16 0 0 3-16cylo.dat
-1 16 40 191 20 0 0 2 0 -1 0 -2 0 0 3-16rin7.dat
+1 16 40 191 20 0 0 2 0 -1 0 -2 0 0 3-16ring7.dat
 2 24 55.2046 179 16 54.7824 179 13.8768
 2 24 55.2046 191 16 54.7824 191 13.8768
 1 16 53.0696 185 15.3211 0 1 0.135 -6 0 0 0 0 0.6789 rect3.dat

@@ -1,10 +1,12 @@
 0 ~Minifig Shopping Cart Frame Half
 0 Name: s\49649s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
 
 
 4 16 16.75 12.432 -6.242 16.75 3.75 -6.262 16.75 3.75 -12.976 16.75 12.431 -12.994

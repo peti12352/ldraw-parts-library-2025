@@ -1,13 +1,16 @@
 0 Sticker  2.5 x  9.3 with Black "SILJA LINE" and Seal Logo
 0 Name: 192685i.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 1581-1
+0 !KEYWORDS Bricklink 1581.1stk01, Brickowl 382188, Ferries, promotional
+0 !KEYWORDS Rebrickable 192685, Set 1581-1, Silja Line Ferry
+0 !KEYWORDS Universal Building Set
 
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
 
 0 // sides
 4 16 41.72 0 0 41.72 -.25 0 48.3 -.25 21.98 48.3 0 21.98
@@ -22,6 +25,7 @@
 4 16 93.1 0 -27.72 41.72 0 0 48.3 0 21.98 65.1 0 21.98
 3 16 93.1 0 -27.72 65.1 0 21.98 93.1 0 10.08
 0 // seal logo
+0 BFC NOCLIP
 1 0 61.74 -.25 8.68 3.22 0 0 0 1 0 0 0 3.22 4-4disc.dat
 4 0 57.61 -.25 17.8617 59.22 -.25 14.28 60.935 -.25 14.56 59.5 -.25 18.2
 4 0 75.6 -.25 -5.04 76.0073 -.25 -5.6382 80.36 -.25 -4.9 80.64 -.25 -4.2
@@ -142,6 +146,7 @@
 4 0 -36.0319 -.25 -15.7319 -38.5 -.25 -18.48 -33.46 -.25 -18.48 -33.2247 -.25 -15.68
 3 0 -51.87 -.25 -25.4366 -50.96 -.25 -25.34 -52.78 -.25 -25.34
 3 0 -76.23 -.25 -7.7279 -75.04 -.25 -7.9124 -75.74 -.25 -5.32
+0 BFC CLIP
 0 // transparent
 1 16 61.74 -.25 8.68 3.22 0 0 0 1 0 0 0 3.22 4-4ndis.dat
 4 16 65.1 -.25 21.98 63.6242 -.25 17.9258 65.5667 -.25 17.2667 93.1 -.25 10.08

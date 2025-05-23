@@ -1,8 +1,8 @@
 0 Click Lock Hinge Half Dual Finger 3-Position Type 1
 0 Name: clh7.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Unofficial_Primitive 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Primitive UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Requires 2 halves rotated 180 degrees apart on Z-axis.
 0 !HELP Placement on side of bricks; rotate pair accordingly, place 10 Ldu
@@ -16,6 +16,8 @@
 
 0 !HISTORY 2017-07-07 [ejboer] Improved design
 0 !HISTORY 2021-03-23 [MagFors] More finetuning using lo-res primitives
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
+
 
 1 16 6.25 -6 .9 2.25 0 0 0 1 0 0 0 .9 rect3.dat
 1 16 6.25 6 .9 2.25 0 0 0 -1 0 0 0 .9 rect3.dat

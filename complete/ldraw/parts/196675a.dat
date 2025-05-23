@@ -1,12 +1,15 @@
 0 Sticker  2.9 x  2.9 with White/Clear Stripes
 0 Name: 196675a.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Window, Set 6369, Garage
+0 !KEYWORDS Bricklink 6369stk01, Brickowl 882336, Garage, Rebrickable 196675
+0 !KEYWORDS Set 6369, Window
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
 
 
 1 16 0 -0.25 0 29 0 0 0 0.25 0 0 0 29 box5-12.dat

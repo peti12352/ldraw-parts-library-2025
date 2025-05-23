@@ -1,15 +1,17 @@
 0 Sticker  3.4 x  3.8 with Coast Guard (1995) Logo
 0 Name: 169625e.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 6338, Bricklink 6338stk01, Rebrickable 169625, Brickowl 143926
+0 !KEYWORDS Bricklink 6338stk01, Brickowl 143926, Rebrickable 169625, Set 6338
 
 0 !HISTORY 2022-11-03 [Holly-Wood] Fixed unmatched edges
 0 !HISTORY 2022-12-31 [MMR1988] Used s02 for correct colouring, removed NOCLIP statement
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
 
 1 16 0 -.25 0 38 0 0 0 .25 0 0 0 34 box5-12.dat
 

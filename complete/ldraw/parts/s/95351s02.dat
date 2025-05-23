@@ -1,10 +1,12 @@
 0 ~Minifig Hips Mermaid Tail Sitting - Tail
 0 Name: s\95351s02.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
 
 
 3 16 49.77 16.647 30.647 48.804 16.552 30.664 48.617 16.022 30.834

@@ -1,13 +1,15 @@
 0 Tile  2 x  2 with Yellow, Dark Azure, Medium Azure, and Blue Squares Pattern
 0 Name: 3068bpxa.dat
 0 Author: Vincent Messenet [Cheenzo]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10292, Set 21160, Bricklink 3068bpb1322, Minecraft, Friends
-0 !KEYWORDS Glazed Terracotta
+0 !KEYWORDS BrickLink 3068pb1322, Friends, Glazed Terracotta, Minecraft
+0 !KEYWORDS Rebrickable 3068bpr0417, set 10292, Set 21160, Set 21339
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat

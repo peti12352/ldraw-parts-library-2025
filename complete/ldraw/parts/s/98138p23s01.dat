@@ -1,17 +1,18 @@
 0 ~Tile  1 x  1 Round with Tiger Face Pattern - Half
 0 Name: s\98138p23s01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06
 
-1 14 -4.5 0 -0.6 1 0 0 0 1 0 0 0 1 2-4disc.dat
+1 14 -4.5 0 -0.6 1 0 0 0 1 0 0 0 1 2-4chrd.dat
 1 0 -4.5 0 -0.6 1 0 0 0 1 0 0 0 1 2-4ring1.dat
 1 14 -4.5 0 -0.6 2 0 0 0 1 0 0 0 2 2-4ndis.dat
-1 0 -6 0 -0.6 -0.5 0 0 0 1 0 0 0 -0.5 2-4disc.dat
-1 0 -3 0 -0.6 -0.5 0 0 0 1 0 0 0 -0.5 2-4disc.dat
+1 0 -6 0 -0.6 -0.5 0 0 0 1 0 0 0 -0.5 2-4chrd.dat
+1 0 -3 0 -0.6 -0.5 0 0 0 1 0 0 0 -0.5 2-4chrd.dat
 1 14 -6 0 -0.6 -0.5 0 0 0 1 0 0 0 -0.5 2-4ndis.dat
 1 14 -3 0 -0.6 -0.5 0 0 0 1 0 0 0 -0.5 2-4ndis.dat
 4 0 0 0 7.4 0 0 9 -1.17 0 8.92 -1.2 0 7.3

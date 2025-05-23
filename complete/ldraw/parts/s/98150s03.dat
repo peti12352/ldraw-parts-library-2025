@@ -1,13 +1,15 @@
-0 ~Minifig Head Snake Top Half
+0 ~Minifig Head Snake Cobra Top Half
 0 Name: s\98150s03.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2021-02-16 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
 
 3 16 7.226 -25.934 -17.93 0 -27.359 -17.791 4.711 -24.547 -20.839
 3 16 4.711 -24.547 -20.839 0 -27.359 -17.791 0 -24.953 -21.175

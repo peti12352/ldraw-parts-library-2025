@@ -1,10 +1,12 @@
 0 ~Cylinder  3 x  3 x  3 Dome Elongated - Outside Condlines Quarter
 0 Name: s\1744s03.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 5 24 -4.1348 9.4538 15.4312 -2.0852 9.4538 15.8389 -2.588 0 9.659 -2.7285 19.9167 20.7249

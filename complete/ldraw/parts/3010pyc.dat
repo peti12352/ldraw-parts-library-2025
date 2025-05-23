@@ -1,12 +1,15 @@
 0 Brick  1 x  4 with White Triangle and Black Line Pattern
 0 Name: 3010pyc.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3010pb317, Brickheadz, Daisy Duck, Set 40476
+0 !KEYWORDS Brickheadz, Bricklink 3010pb317, Daisy Duck, Rebrickable 3010pr0082
+0 !KEYWORDS Set 40476
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat

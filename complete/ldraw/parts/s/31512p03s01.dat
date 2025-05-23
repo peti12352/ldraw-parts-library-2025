@@ -1,10 +1,12 @@
 0 ~Minifig Head Powerpuff Girls Face - with Buttercup Face Half
 0 Name: s\31512p03s01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
 
 
 4 0 5.6515 -25.6064 -21.8069 5.7168 -24.7704 -22.0891 6.2135 -24.7608 -21.9569 8.5752 -27.4178 -20.3827

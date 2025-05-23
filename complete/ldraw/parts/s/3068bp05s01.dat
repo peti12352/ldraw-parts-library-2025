@@ -1,20 +1,23 @@
 0 ~Common Pattern Diagonal Arrow on Blue Disc for  2 x  2 Face
 0 Name: s\3068bp05s01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-08-28 [RainbowDolphin] Pattern Extracted from 3068bp05 by Tore Eriksson [Tore_Eriksson]
+0 !HISTORY 2023-05-14 [RainbowDolphin] Optimized prim usage
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
 
 1 16 0 0 0 18 0 0 0 1 0 0 0 18 4-4ndis.dat
 1 1 0 0 0 0 0 -18 0 1 0 18 0 0 1-4chrd.dat
 1 1 0 0 0 0 0 18 0 1 0 -18 0 0 1-4chrd.dat
-1 1 0 0 0 -12.728 0 12.728 0 1 0 -12.728 0 -12.728 1-8chrd.dat
+1 1 0 0 0 0 0 -18 0 1 0 -18 0 0 1-8chrd.dat
 1 1 0 0 0 -18 0 0 0 1 0 0 0 -18 1-8chrd.dat
-1 1 0 0 0 12.728 0 -12.728 0 1 0 12.728 0 12.728 1-8chrd.dat
 1 1 0 0 0 18 0 0 0 1 0 0 0 18 1-8chrd.dat
+1 1 0 0 0 0 0 18 0 1 0 18 0 0 1-8chrd.dat
 4 16 18 0 18 20 0 20 -20 0 20 -18 0 18
 4 16 -18 0 18 -20 0 20 -20 0 -20 -18 0 -18
 4 16 -18 0 -18 -20 0 -20 20 0 -20 18 0 -18

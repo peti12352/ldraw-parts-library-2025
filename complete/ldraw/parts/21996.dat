@@ -1,8 +1,8 @@
 0 Duplo Arm  3L with Locking Ring
 0 Name: 21996.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 
 0 !HISTORY 2020-12-12 {LEGO/Unity Microgame} Original part shape
 0 !HISTORY 2021-01-31 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 dhingepin2.dat
 1 16 0 0 120 1 0 0 0 0 1 0 -1 0 dhingesocket.dat
@@ -59,3 +60,5 @@
 4 16 22.5 12 63.4375 22.5 3 73 22.5 5.8667 114.1333 22.5 12 105.6061
 2 24 19.8 0 -28 19.8 0 -19
 2 24 -19.8 0 -19 -19.8 0 -28
+5 24 26.5 0 70 2 0 70 2 3 69 2 -3 69
+5 24 -26.5 0 70 -2 0 70 -2 -3 69 -2 3 69

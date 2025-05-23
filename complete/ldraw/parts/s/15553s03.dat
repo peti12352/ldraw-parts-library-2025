@@ -1,13 +1,15 @@
 0 ~Minifig Headdress Batgirl Top Half
 0 Name: s\15553s03.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2021-06-22 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
 
 4 16 11.5655 -0.471 0 8 -5.5 0 7.3912 -5.5 3.0616 10.6858 -0.471 4.4258
 4 16 8.178 -0.471 8.178 10.6858 -0.471 4.4258 7.3912 -5.5 3.0616 5.6568 -5.5 5.6568

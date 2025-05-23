@@ -1,13 +1,15 @@
 0 ~Minifig Headdress Batgirl Hair
 0 Name: s\15553s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2021-06-22 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
 
 2 24 15.107 10.928 6.433 14.4 11.18 7.502
 2 24 16.044 10.417 2.189 15.107 10.928 6.433

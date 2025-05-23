@@ -1,12 +1,14 @@
 0 ~Pattern Black Striped "CUSTOM"
 0 Name: s\162275as01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
 
+0 BFC NOCLIP
 4 0 -51.8 0 11.8 -51.5 0 14.2 -62.5 0 14.2 -52.4 0 10.2
 4 0 -53.1 0 9.7 -52.4 0 10.2 -62.5 0 14.2 -60.7 0 9.7
 4 0 -60.7 0 9.7 -62.5 0 14.2 -64.5 0 13.9 -61.7 0 9.5
@@ -113,6 +115,7 @@
 4 0 71.6 0 -8.9 65.6 0 -8.9 65.6 0 -10.7 71.6 0 -10.7
 4 0 71.6 0 -12.3 65.6 0 -12.3 65.6 0 -13.6 72.1 0 -13.5
 4 0 72.1 0 -13.5 65.6 0 -13.6 66.2 0 -14.2 72.6 0 -14.2
+0 BFC CLIP
 4 16 -40 0 19 -79 0 19 -62.5 0 14.2 -51.5 0 14.2
 3 16 -40 0 19 -51.5 0 14.2 -47.5 0 14.2
 3 16 -40 0 19 -47.5 0 14.2 -41 0 14.2

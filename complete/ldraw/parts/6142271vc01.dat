@@ -1,12 +1,15 @@
 0 Sticker  1.8 x  3 with Headlamp and Front Bumper on Black Background Left (Formed)
 0 Name: 6142271vc01.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Speed Champions, Audi, R8, LMS, Ultra, Set 75873
+0 !KEYWORDS Audi, Bricklink 75873stk01a, Brickowl 427960, LMS, R8
+0 !KEYWORDS Rebrickable 24755, Set 75873, Speed Champions, Ultra
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
 
 
 1 16 -18.9266 .5872 0 0 -.052953 -.998597 0 .998597 -.052953 -1 0 0 s\6142271us01.dat

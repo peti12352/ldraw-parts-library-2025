@@ -1,10 +1,12 @@
 0 ~Animal Cat Standing with Spiky Mohawk and Collar Nose Half
 0 Name: s\39742s06.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
 
 
 3 16 0 -45.251 -13.596 0 -43.11 -14.639 2.012 -43.03 -14.414

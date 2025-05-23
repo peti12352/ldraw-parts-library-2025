@@ -1,12 +1,14 @@
 0 ~Technic Beam 15 x 11 with Perforated Centre Plate 13 x  9 Quarter
 0 Name: s\65817s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-14 [SwampKryakwa] Use of npeghol20 primitive
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
 
 1 16 100 0 130 -1 0 0 0 1 0 0 0 1 npeghol20.dat
 1 16 90 0 140 0 0 1 0 1 0 -1 0 0 npeghol20.dat

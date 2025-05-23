@@ -1,13 +1,15 @@
 0 ~Duplo Brick Gear 12 Tooth  6 x  6 - Tooth
 0 Name: s\26835s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-12 {LEGO/Unity Microgame} Original part shape
 0 !HISTORY 2021-01-13 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
+
 
 1 16 -9.3175 0 34.7733 0.96593 0 -0.25882 0 1 0 0.25882 0 0.96593 s\26832s02.dat
 1 16 -2.7253 10 83.6727 0 5.45066 0 -10 0 0 0 0 12.5037 1-4cyli.dat

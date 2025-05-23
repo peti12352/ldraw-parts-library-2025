@@ -1,12 +1,14 @@
 0 ~Pattern Black "TURN OFF ENGINE" and Border
 0 Name: s\197915as01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2021-10-05 [RainbowDolphin] Subfiled pattern from 197915a by N. W. Perry [Plastikean]
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
 
 1 0 -17 0 7 0 0 -1.1 0 1 0 1.1 0 0 1-4disc.dat
 1 16 -17 0 7 0 0 -1.1 0 1 0 1.1 0 0 1-4ndis.dat

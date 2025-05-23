@@ -1,10 +1,12 @@
 0 ~Minifig Scythe with Bar and Cross Hatched Grip - Half
 0 Name: s\37341ds01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 0 // Adapter to Grip
@@ -167,6 +169,8 @@
 5 24 2.1198 -27.6692 -28.343 2.2145 -29.7619 -24.4887 2.1309 -27.3142 -28.1492 2.2603 -31.0689 -27.1791
 5 24 2.0487 -24.9849 -33.2773 1.8124 -21.4389 -34.3735 1.9595 -24.7113 -31.4957 1.9211 -21.3989 -35.6799
 5 24 2.6765 -37.587 -11.3951 2.5485 -33.8864 -12.2958 2.6827 -34.1637 -7.9901 2.5523 -36.7499 -15.6279
+5 24 1.6897 -17.7539 -36.6636 1.57 -15.761 -38.0626 1.5 -15.05 -37.9 1.62 -16.5087 -37.9427
+5 24 2.2603 -31.0689 -27.1791 2.2145 -29.7619 -24.4887 2.1198 -27.6692 -28.343 2.3425 -33.4626 -23.5881
 
 0 // Blade Outside
 3 16 3.0999 -36.7302 1.4453 3.25 -35.338 5.5286 1 -39.238 6.2286

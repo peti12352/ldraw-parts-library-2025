@@ -1,10 +1,12 @@
 0 ~Technic Gear 20 Tooth - Tooth
 0 Name: s\69779s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
 
 
 2 24 -1.5502 -25.95 4.75 -0.8 -27.6002 4.75

@@ -1,18 +1,18 @@
 0 ~Minifig Captains Hat - Inside
 0 Name: s\12895s04.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
 
 0 // Stud 4
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud4o.dat
 1 16 0 0 0 0 0 -8 0 -4 0 8 0 0 4-4cyli.dat
 1 16 0 0 0 0 0 -8 0 1 0 8 0 0 4-4edge.dat
-1 16 0 -4 0 0 0 -8 0 -2.99185 0 8 0 0 4-4cyls.dat
-1 16 0 -6.9919 0 8 0 0 0 1 2.99785 0 0 8 4-4edge.dat
+1 16 0 -4 0 0 0 -8 0 -2.99184 0 8 0 0 4-4cylse.dat
 1 16 0 -6.607 1.029 11.423 0 0 0 -1 4.272 0 0 11.423 4-4disc.dat
 1 16 0 -6.607 1.029 11.423 0 0 0 -1 4.272 0 0 11.423 4-4edge.dat
 

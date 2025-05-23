@@ -1,11 +1,13 @@
 0 ~Figure, Lower Body  2 x  2 x  1.667, Colour 2 without Printed Surfaces
 0 Name: s\67644s07.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !HISTORY 2023-11-07 [MagFors] Added missing condlines
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\67644s08.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\67644s08.dat
@@ -126,3 +128,12 @@
 2 24 -4.939 22 13.0179 -4.939 6 13.0179
 2 24 4.939 6 13.0179 4.939 22 13.0179
 2 24 -2 22 13.6023 -4.939 22 13.0179
+
+5 24 -6.5059 0 15.7063 -6.5059 6 15.7063 -7.2267 0 15.2246 0 0 17
+5 24 0 0 17 0 6 17 -6.5059 0 15.7063 6.5059 0 15.7063
+5 24 6.5059 0 15.7063 6.5059 6 15.7063 7.2267 0 15.2246 0 0 17
+5 24 6.5059 0 -15.7063 6.5059 2 -15.7063 7.2267 0 -15.2246 0 0 -17
+5 24 0 0 -17 0 2 -17 6.5059 0 -15.7063 -6.5059 0 -15.7063
+5 24 -6.5059 0 -15.7063 -6.5059 2 -15.7063 0 0 -17 -7.2267 0 -15.2246
+5 24 -14 0 0 -14 2 0 -13.0179 0 4.939 -13.0179 0 -4.939
+5 24 14 0 0 14 2 0 13.0179 0 4.939 13.0179 0 -4.939

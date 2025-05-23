@@ -1,12 +1,14 @@
 0 ~| BuWizz Electric Motor Lid
 0 Name: t1191.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Electric
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
 
 
 1 16 25.8787 -22.88005 8.5 0 0 -4.1213 0 1 -4.11995 8.5 0 0 rect.dat

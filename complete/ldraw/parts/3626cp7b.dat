@@ -1,12 +1,15 @@
 0 Minifig Head Female with Black Eyebrows, Eyelashes, Nougat Lips, Smile, Teeth, Open Eyes / Closed Eyes 2-Sided Pattern
 0 Name: 3626cp7b.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3626cpb2379, Set 10293, Set 60291, Set 10278
+0 !KEYWORDS BrickLink 3626pb2379, Rebrickable 3626cpr2951, Set 10278, Set 10293
+0 !KEYWORDS Set 60291
+
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat

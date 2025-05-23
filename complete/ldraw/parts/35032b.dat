@@ -1,16 +1,18 @@
 0 Power Burst Bolt  5L with Bar at Both Ends
 0 Name: 35032b.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Wave, Flame, Effect
+0 !KEYWORDS Effect, Flame, Wave
 
 0 !HISTORY 2022-02-20 {LEGO Instructions App} Original part shape
 0 !HISTORY 2022-04-26 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\35032bs01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\35032bs01.dat

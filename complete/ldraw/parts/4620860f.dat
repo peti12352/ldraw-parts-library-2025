@@ -1,13 +1,15 @@
 0 Sticker  3.8 x  2.4 with Yellow Duck, Brush and Sponges
 0 Name: 4620860f.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 3315, House, Olivia, Bathroom, Shower
+0 !KEYWORDS Bathroom, Bricklink 3315stk01, Brickowl 604777, house, Olivia
+0 !KEYWORDS Rebrickable 95460, set 3315, shower
 
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
 
 3 16 -24 0 13.5 -24 0 16 0 0 0
 3 16 0 0 0 -24 0 16 -24 0 25
@@ -562,8 +564,8 @@
 3 14 7.2 -.25 -22.7 13.3 -.25 -24.2 13.3 -.25 -23.6
 4 14 7.2 -.25 -22.7 13.3 -.25 -23.6 13.3 -.25 -23 7.8 -.25 -20
 4 14 7.8 -.25 -20 13.3 -.25 -23 17.1 -.25 -19.7 7.9 -.25 -16.7
-4 14 17.13 -.25 -19.95 17.1 -.25 -19.7 13.3 -.25 -23 13.9 -.25 -23
-4 14 17.1 -.25 -20.5 17.13 -.25 -19.95 13.9 -.25 -23 14.5 -.25 -23
+4 14 17.1 -.25 -20.1 17.1 -.25 -19.7 13.3 -.25 -23 13.9 -.25 -23
+4 14 17.1 -.25 -20.5 17.1 -.25 -20.1 13.9 -.25 -23 14.5 -.25 -23
 4 14 17.1 -.25 -20.5 14.5 -.25 -23 15.7 -.25 -22.3 16.9 -.25 -21.2
 4 14 15.7 -.25 -22.7 15.7 -.25 -22.3 14.5 -.25 -23 14.5 -.25 -23.6
 4 14 15.7 -.25 -23.1 15.7 -.25 -22.7 14.5 -.25 -23.6 14.5 -.25 -24.2

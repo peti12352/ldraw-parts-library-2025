@@ -1,10 +1,12 @@
 0 ~Minifig Hair Decoration Bow Large with Pin Face Quarter with White Dots Pattern
 0 Name: s\24634p01s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-12-30 [OrionP] Official Update 2024-11
 
 
 4 15 9.389 -16.52 -4.284 7.7083 -15.2641 -3.7878 7.9621 -14.1484 -4.1171 8.6557 -13.321 -4.5842

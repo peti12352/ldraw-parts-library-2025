@@ -1,18 +1,20 @@
-0 Minifigure Skirt Ruffled with Bright Pink, Bright Light Yellow, and Yellowish Green Panels Pattern
+0 Minifig Skirt Ruffled with Bright Pink, Bright Light Yellow, and Yellowish Green Panels Pattern
 0 Name: 24087p01.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Hipwear
-0 !KEYWORDS ballerina, tutu, petticoat, ballet, dance, toe dancing, set 71019
-0 !KEYWORDS Bricklink 24087pb01, Rebrickable 24087pr0001, Brickowl 245093
-0 !KEYWORDS N-POP Girl, CMF, The LEGO NINJAGO Movie
+0 !KEYWORDS ballerina, ballet, Bricklink 24087pb01, CMF, dance, N-POP Girl
+0 !KEYWORDS petticoat, Rebrickable 24087pr0001, set 71019
+0 !KEYWORDS The LEGO Ninjago Movie, toe dancing, tutu
 
 0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2016-03-18 [Holly-Wood] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06
+0 !HISTORY 2024-08-26 [OrionP] Official Update 2024-07
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24087s01.dat
 

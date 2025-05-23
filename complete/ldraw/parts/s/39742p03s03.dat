@@ -1,10 +1,12 @@
 0 ~Animal Cat Standing with Spiky Mohawk and Collar Nose Pattern
 0 Name: s\39742p03s03.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
 
 
 4 0 0.3931 -41.7642 -14.8262 0.5567 -41.2735 -14.8929 0.8021 -41.2326 -14.88 1.0704 -41.9047 -14.7495

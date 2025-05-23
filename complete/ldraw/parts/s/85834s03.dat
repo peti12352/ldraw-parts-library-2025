@@ -1,10 +1,12 @@
 0 ~Brick  4 x  5 x  1.667 with Domed Top and Tapered Sides - Side
 0 Name: s\85834s03.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
 
 
 3 16 40 3.216 17.418 37.225 -0.0915 20.385 36.0665 -7.005 10.0491

@@ -1,10 +1,12 @@
 0 ~Minifig Head Powerpuff Girls Face - with Blossom Face Half
 0 Name: s\31512p01s01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
 
 
 4 0 21.6375 -31.0501 -7.7184 21.8384 -30.7135 -7.7099 24.3044 -28.5073 -4.1362 24.5989 -28.4485 -3.3402

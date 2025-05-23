@@ -1,18 +1,20 @@
 0 Sticker  0.8 x  3.8 with Black Train Logo (2006, Bold) on Yellow Background
 0 Name: 4638848l.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS 3677
 
+0 !HISTORY 2023-12-31 [OrionP] Official Update 2023-07
+
 
 1 16 0 -.25 0 38 0 0 0 .25 0 0 0 8 box5-12.dat
 
-1 14 0 0 0 0.48 0 0 0 1 0 0 0 0.48 s\4638848bs02.dat
-1 0 0 0 0 0.48 0 0 0 1 0 0 0 0.48 s\4638848bs01.dat
+1 14 0 0 0 0.48 0 0 0 1 0 0 0 0.48 logo-train-2006-bold-box.dat
+1 0 0 0 0 0.48 0 0 0 1 0 0 0 0.48 logo-train-2006-bold.dat
 
 3 14 -5.76 -.25 -5.76 -38 -.25 -8 0 -.25 -5.76
 3 14 -38 -.25 -8 -5.76 -.25 -5.76 -9.631776 -.25 -5.845344

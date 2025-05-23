@@ -1,12 +1,14 @@
 0 Arch  1 x  6 x  2 with Thick Top and Reinforced Underside with Oriental Pattern
 0 Name: 3307p00.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3307px1, Set 7418
+0 !KEYWORDS Bricklink 3307px1, Rebrickable 3307pr0001, Set 7418
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 1 16 0 0 -10 1 0 0 0 1 0 0 0 1 s\3307p00s01.dat

@@ -1,13 +1,15 @@
 0 Minifig Stand Hinge Pin
 0 Name: 30491.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Sports, Soccer
+0 !KEYWORDS Soccer, Sports
+
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
 
 
 1 16 0 10 0 -1 0 0 0 -1 0 0 0 1 connect4.dat

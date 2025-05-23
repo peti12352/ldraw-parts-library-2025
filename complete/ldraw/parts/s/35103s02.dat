@@ -1,10 +1,12 @@
 0 ~Frame  2 x 16 x  6 with  3 Openings and  4 Studs on Front - Holes
 0 Name: s\35103s02.dat
 0 Author: Bertrand Lequy [Berth]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 1 16 2.5 4.5 5.25 2 0 0 0 -1 0 0 0 2 4-4ndis.dat

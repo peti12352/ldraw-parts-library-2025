@@ -1,12 +1,15 @@
-0 Sticker  2.3 x  0.7 with White Plimsoll Lines
+0 Sticker  2.3 x  0.7 with White Draft Marker Lines
 0 Name: 820672d.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 6541, Ship, Harbour, Seaport
+0 !KEYWORDS Bricklink 6541stk01, Brickowl 653520, harbour, Rebrickable 820672
+0 !KEYWORDS Seaport, Set 6541, ship
+
+0 !HISTORY 2023-12-31 [OrionP] Official Update 2023-07
 
 
 1 16 0 -0.25 0 7 0 0 0 0.25 0 0 0 23 box5-12.dat

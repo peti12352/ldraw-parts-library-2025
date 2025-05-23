@@ -1,10 +1,12 @@
 0 ~Sticker  1.9 x  1.9 with Ignition Key, Switches and Ashtray
 0 Name: s\6296256ds01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 4 0 .02 -.25 -7.26 .44 -.25 -7.31 .46 -.25 -6.85 -.49 -.25 -6.85

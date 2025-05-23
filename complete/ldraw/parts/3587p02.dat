@@ -1,12 +1,14 @@
 0 Tail  2 x  5 x  3.667 Plane with 3 Red Arrows Pattern
 0 Name: 3587p02.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 687-1, Bricklink 3587pb03
+0 !KEYWORDS Bricklink 3587pb03, Rebrickable 3587pr0002, Set 687-1
+
+0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3587s01.dat

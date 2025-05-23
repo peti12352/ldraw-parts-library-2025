@@ -1,10 +1,12 @@
 0 ~Technic Swashplate Ball Joint with  4 Grooves and Square Hole  1/8
 0 Name: s\1938s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 4 16 14.5517 -9.308 14.5517 16.1224 -3.0015 16.1224 11.401 -3.0015 19.7468 10.29 -9.308 17.8223

@@ -1,12 +1,13 @@
 0 Minifig Gun Shooting Blaster with Socket Joint-8 with Friction
 0 Name: 23922.dat
 0 Author: Bertrand Lequy [Berth]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
-0 !HELP trigger : 15392.dat, position : 0 -32.85 -17.2
-0 !HELP trigger : 15392.dat, matrix : 1 0 0 0 .96593 -.25882 0 .25882 .96593
-0 !HELP Stud position and matrix : 0 -28 -30 1 0 0 0 0 1 0 -1 0
+0 !HELP trigger
+0 !HELP 1 16 0 -32.85 -17.2 1 0 0 0 .96593 -.25882 0 .25882 .96593 15392.dat
+0 !HELP plate 1x1 round
+0 !HELP 1 16 0 -28 -30 1 0 0 0 0 1 0 -1 0 6141.dat
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +16,8 @@
 
 0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2021-05-18 [Berth] File preparation for LDraw Parts Tracker
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\23922s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\23922s01.dat

@@ -1,10 +1,12 @@
 0 ~Minifig Leg Left Spring Prosthetic Thigh
 0 Name: s\80690s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
 
 
 4 16 2 8.75 0 18.5952 8.75 0 18.5726 8.084 -3.349 2 8.084 -3.349

@@ -1,10 +1,12 @@
 0 ~Wheel Rim 41 x 75 with  5 Spokes and  3 Pins 1/40
 0 Name: s\73398s03.dat
 0 Author: Jens Brühl [jb70]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
 
 
 4 16 14.0791 -88.89195 -21 7.06132 -89.72256 -21 6.17865 -78.50724 -7 12.31921 -77.78046 -7

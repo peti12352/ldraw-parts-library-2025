@@ -1,12 +1,14 @@
 0 ~Electric Power Functions Coiled Cable with Dark Bluish Grey Functions Connector with PF Bottom
 0 Name: u9190c03.dat
 0 Author: Johann Eisner [technicbasics]
-0 !LDRAW_ORG Unofficial_Shortcut 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Shortcut UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-03-27 [MagFors] Moved origin, reduced decimals
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
 
 1 72 100 -7 170 0 0 1 0 1 0 -1 0 0 58124c01.dat
 1 16 0 0 32.62 0 0 1 -1 0 0 0 -32.7833 0 u9190.dat

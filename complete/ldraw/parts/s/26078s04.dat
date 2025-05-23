@@ -1,13 +1,15 @@
 0 ~Animal Dog Terrier Side
 0 Name: s\26078s04.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-10-05 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2021-07-04 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
 
 4 16 8.921 -28.04 1.37 8.9413 -27.4563 -2.8119 9.5793 -11.6792 1.3239 9.4542 -15.0587 15.685
 4 16 9.6089 -11.0357 6.2639 9.5616 -12.2897 10.3869 9.4542 -15.0587 15.685 9.5793 -11.6792 1.3239

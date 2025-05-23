@@ -1,8 +1,8 @@
 0 Joint-8 Socket with Friction without Backside
 0 Name: joint8socket3.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Primitive 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Primitive UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP it moves +/-35 degrees in the horizontal plane
 0 !HELP 1 4 0 0 0 0.819152 0 0.573576 0 -1 0 0.573576 0 -0.819152 joint8ball.dat
@@ -10,6 +10,8 @@
 0 !HELP 1 4 0 0 0 0.996195 0 0.087156 0.087156 0 -0.996195 0 1 0 joint8ball.dat
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 0 // Top surface

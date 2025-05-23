@@ -1,12 +1,14 @@
 0 ~Sticker  1.9 x  2.9 Exxon Gas Pumps without Number
 0 Name: s\192375is01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2021-06-06 [RainbowDolphin] Created based on 192915s01 by Peter Lind [peterlinddk] and Willy Tschager [Holly-Wood]
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+
 
 0 // Black filler above dots
 3 0 -29 0 18.5 -24.3 0 10.8 -21.7 0 10.8
@@ -141,8 +143,8 @@
 4 0 11.3 0 2.7 17 0 2.7 17 0 5.3 11.3 0 5.3
 
 0 // Exxon sign
-1 4 0 0 -14 .32 0 0 0 1 0 0 0 .32 logo-exxon-1.dat
-1 15 0 0 -14 .32 0 0 0 1 0 0 0 .32 logo-exxon-2.dat
+1 4 0 0 -14 .32 0 0 0 1 0 0 0 .32 logo-exxon-text.dat
+1 15 0 0 -14 .32 0 0 0 1 0 0 0 .32 logo-exxon-box.dat
 
 0 // Background
 4 15 -28 0 -5.5 -14.72 0 -6.32 14.72 0 -6.32 28 0 -5.5

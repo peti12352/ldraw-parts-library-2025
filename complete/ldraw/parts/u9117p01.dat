@@ -1,10 +1,14 @@
 0 ~Electric Hub Mario Screen with Eyes and Mouth Pattern
 0 Name: u9117p01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 71360
+
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
 
 
 1 16 0 60 -23.5 27 0 0 0 0 -43 0 1 0 box5.dat

@@ -1,10 +1,12 @@
 0 ~Minifig Helmet Motorcycle with Open Face and Visor - Half Bottom
 0 Name: s\15851s01.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
 
 
 4 16 -12.0107 5.964 -4.9751 -9.1923 5.94 -9.1923 -13.116 5.916 -13.257 -15.419 5.938 -9.387

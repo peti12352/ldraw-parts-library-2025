@@ -1,12 +1,14 @@
 0 ~Minifig Torso with SW Vest with Dark Blue Plates Pattern Half
 0 Name: s\973prjs01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-09-17 [Cheenzo] Fixed colour issue
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+
 
 4 87 1.9119 22.0015 10 1.6029 22.3877 10 1.2939 22.3877 10 .9849 22.0015 10
 4 16 1.8604 22.6452 10 1.6029 22.3877 10 1.9119 22.0015 10 2.3638 22.0143 10

@@ -1,10 +1,12 @@
 0 ~Windscreen 14 x 14 x  4 Semicircle - Curved Faces Half
 0 Name: s\73642s02.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
 
 
 4 16 -116.8051 -29.9011 -15.3777 -104.107 -44.5054 -13.7059 -101.4274 -44.5054 -27.1774 -113.7986 -29.9011 -30.4922

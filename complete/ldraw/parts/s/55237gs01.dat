@@ -1,10 +1,13 @@
 0 ~Bar  5L with Cylinders on Sides - One Quarter
 0 Name: s\55237gs01.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 0 // Cylinders
@@ -42,28 +45,28 @@
 0 // Primitives
 1 16 0 -79.6 0 0 0 .5 0 1 0 .5 0 0 1-8ring8.dat
 1 16 0 -79.6 0 4 0 0 0 1 0 0 0 4 1-8tndis.dat
-1 16 0 -79.6 0 0 0 .25 0 1 0 .25 0 0 1-8rin18.dat
+1 16 0 -79.6 0 0 0 .25 0 1 0 .25 0 0 1-8ring18.dat
 1 16 0 -79.6 0 0 0 4.75 0 3 0 4.75 0 0 1-8cylo.dat
-1 16 0 -76.6 0 0 0 .25 0 -1 0 .25 0 0 1-8rin18.dat
+1 16 0 -76.6 0 0 0 .25 0 -1 0 .25 0 0 1-8ring18.dat
 1 16 0 -76.6 0 0 0 .5 0 -1 0 .5 0 0 1-8ring8.dat
 1 16 0 -76.6 0 0 0 4 0 8.1 0 4 0 0 1-8cylo.dat
 1 16 0 -68.5 0 0 0 .5 0 1 0 .5 0 0 1-8ring8.dat
-1 16 0 -68.5 0 0 0 .25 0 1 0 .25 0 0 1-8rin18.dat
+1 16 0 -68.5 0 0 0 .25 0 1 0 .25 0 0 1-8ring18.dat
 1 16 0 -68.5 0 0 0 4.75 0 3 0 4.75 0 0 1-8cylo.dat
-1 16 0 -65.5 0 0 0 .25 0 -1 0 .25 0 0 1-8rin18.dat
+1 16 0 -65.5 0 0 0 .25 0 -1 0 .25 0 0 1-8ring18.dat
 1 16 0 -65.5 0 0 0 .5 0 -1 0 .5 0 0 1-8ring8.dat
 1 16 0 -65.5 0 4 0 0 0 -1 0 0 0 4 1-8tndis.dat
 0 BFC INVERTNEXT
 1 16 14.6 -65.6 3 2 0 0 0 0 2 0 1.5 0 4-4cylc.dat
 1 16 14.6 -65.6 4.5 1 0 0 0 0 1 0 -1 0 4-4ring2.dat
 1 16 14.6 -65.6 4.5 1 0 0 0 0 1 0 -1 0 4-4ring3.dat
-1 16 14.6 -65.6 4.5 .25 0 0 0 0 .25 0 -1 0 4-4rin16.dat
+1 16 14.6 -65.6 4.5 .25 0 0 0 0 .25 0 -1 0 4-4ring16.dat
 1 16 14.6 -65.6 4.5 4.25 0 0 0 0 4.25 0 1 0 4-4edge.dat
 1 16 14.6 -65.6 4.5 4.25 0 0 0 0 4.25 0 -3 0 4-4cyli.dat
 1 16 14.6 -65.6 3 4.25 0 0 0 0 4.25 0 1 0 2-4edge.dat
 1 16 14.6 -65.6 3 4.25 0 0 0 0 -4.25 0 1 0 5-16edge.dat
 1 16 14.6 -65.6 3 .25 0 0 0 0 .25 0 -1 0 3-8ring17.dat
-1 16 14.6 -65.6 3 .25 0 0 0 0 -.25 0 -1 0 1-8rin17.dat
+1 16 14.6 -65.6 3 .25 0 0 0 0 -.25 0 -1 0 1-8ring17.dat
 1 16 14.6 -65.6 3 .5 0 0 0 0 .5 0 -1 0 3-8ring9.dat
 1 16 14.6 -65.6 3 .5 0 0 0 0 -.5 0 -1 0 1-8ring9.dat
 0 // Faces
@@ -134,7 +137,7 @@
 0 // Primitives
 0 BFC INVERTNEXT
 1 16 14.6 -32.4 3.5 2.75 0 0 0 0 2.75 0 1.5 0 4-4cylc.dat
-1 16 14.6 -32.4 5 .25 0 0 0 0 .25 0 -1 0 4-4rin11.dat
+1 16 14.6 -32.4 5 .25 0 0 0 0 .25 0 -1 0 4-4ring11.dat
 1 16 14.6 -32.4 5 1 0 0 0 0 1 0 -1 0 4-4ring3.dat
 1 16 14.6 -32.4 5 1 0 0 0 0 1 0 -1 0 4-4ring4.dat
 1 16 7.81935 -32.9743 2.75 0 0 1.94435 0 -1 -.2487 1 0 0 rect3.dat

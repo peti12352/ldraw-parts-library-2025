@@ -1,12 +1,15 @@
 0 Sticker  2.7 x  5.7 with Light Bluish Grey and Dark Bluish Grey Danger Stripes
 0 Name: 6155286t.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bucket Wheel Excavator, Set 42055
+0 !KEYWORDS Bricklink 42055stk01a, Brickowl 271908, Bucket Wheel Excavator
+0 !KEYWORDS Rebrickable 27091, Set 42055
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
 
 
 1 72 -56.5 -0.25 26.5 0 0 -1 0 1 0 1 0 0 1-4chrd.dat

@@ -2,9 +2,11 @@
 0 Name: 3245bp01.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 3245bpx1, Rebrickable 3245bpr0001, Set 1239
 
 0 !HISTORY 2004-01-28 [cwdee] Removed POV code per LSC decision
 0 !HISTORY 2006-08-15 [WilliamH] Used 3-8chrd primitives
@@ -13,6 +15,7 @@
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 0 !HISTORY 2020-11-15 [cwdee] Update description
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3245bs02.dat
 
@@ -41,7 +44,6 @@
 4 16 -20 39.7471 -7.3563 -20 48 -10 -20 0 -10 -20 8.2529 -7.3563
 4 16 -20 48 10 -20 39.7471 7.3563 -20 8.2529 7.3563 -20 0 10
 4 15 -20 39.7471 7.3563 -20 39.7471 -7.3563 -20 8.2529 -7.3563 -20 8.2529 7.3563
-
 
 1 16 0 23.423 -10 15.7471 0 0 0 0 -15.7471 0 1 0 5-16ndis.dat
 1 16 0 23.423 -10 15.7471 0 0 0 0 15.7471 0 1 0 1-16ndis.dat

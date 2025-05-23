@@ -1,10 +1,12 @@
 0 ~Tile  1 x  1 Round with Curved Black Lines Pattern - Half
 0 Name: s\98138ph1s01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
 
 
 4 0 -5 0 0.9 -6.5 0 0 4.4 0 0 4.3 0 0.2

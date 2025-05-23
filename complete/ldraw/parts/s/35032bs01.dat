@@ -1,10 +1,12 @@
 0 ~Power Burst Bolt  5L with Bar at Both Ends Half
 0 Name: s\35032bs01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 3 16 6.413 -79.175 0 5.5 -79.211 2.841 4.88 -84.2 3.625

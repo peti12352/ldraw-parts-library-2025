@@ -1,8 +1,8 @@
 0 Sticker  1.8 x  3.8 with White Stripe and Black and White Arcs on Blue Background (Needs Work)
 0 Name: 6141955c.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Needs work: Some parts should be halftones.
 0 !HELP I indicated them as halftone color code disc - color code ndis.
@@ -10,7 +10,10 @@
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Speed Champions, Ford, Mustang, GT, Set 75871
+0 !KEYWORDS Bricklink 75871stk01a, Brickowl 197362, Ford, GT, Mustang
+0 !KEYWORDS Rebrickable 24746, Set 75871, Speed Champions
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
 
 
 0 // Primitives

@@ -1,10 +1,12 @@
 0 ~Sail 11 x  9 Trapezoidal Surface Stripe  2 (Formed)
 0 Name: s\u768c01s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 4 16 18.7822 -86.0564 -119.6216 18.0012 -81.5561 -107.8091 15.6884 -85.1808 -131.9675 18.3154 -86.8666 -124.7719

@@ -1,12 +1,14 @@
 0 Tyre 26/ 49 x 30 Tractor
 0 Name: 70695.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS 56 x 26, Jeep Wrangler, Set 42122
+
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
 
 
 0 // Tyre text

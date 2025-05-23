@@ -1,15 +1,18 @@
 0 Minifig Captains Hat with Black Visor and Red Braid Pattern
 0 Name: 12895p04.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Bricklink 12895pb04, Set 75957, Stan Shunpike, Bus Uniform
+0 !KEYWORDS Bricklink 12895pb04, Bus Uniform, Rebrickable 12895pr0113, Set 75957
+0 !KEYWORDS Stan Shunpike
 
 0 !HISTORY 2023-01-29 [MagFors] Further subfiling
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+
 
 0 // Top and Inside
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12895s01.dat

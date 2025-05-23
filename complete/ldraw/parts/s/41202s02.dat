@@ -1,10 +1,12 @@
 0 ~Minifig Armour Shoulder Pads Snake Head Half
 0 Name: s\41202s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
 
 
 4 16 15.994 -2.14 12.659 13.704 -0.852 14.375 13.974 -2.568 16.57 15.03 -3.544 16.338

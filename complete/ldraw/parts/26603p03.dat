@@ -1,13 +1,15 @@
 0 Tile  2 x  3 with $1 Pizza and $1 Fries Advertising Pattern
 0 Name: 26603p03.dat
 0 Author: Bertrand Lequy [Berth]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 71025-10, BrickLink 26603pb047
+0 !KEYWORDS BrickLink 26603pb047, CMF, Collectible Minifigures
+0 !KEYWORDS Rebrickable 26603pr0024, Set 71025
 
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\26603s01.dat
 4 16 -12.1 0 9 -10.4 0 9 -10.4 0 10.7 -12.1 0 10.7
@@ -1339,7 +1341,6 @@
 3 16 7.42 0 16.77 8.7 0 19.1 7.07 0 17.06
 3 16 7.07 0 17.06 8.7 0 19.1 6.68 0 17.2
 
-4 16 4.65 0 15.27 4.47 0 16.19 -0.8 0 15.88 0.124 0 14.485
 4 16 4.24 0 14.02 4.65 0 15.27 0.124 0 14.485 4.04 0 13.86
 4 16 4.04 0 13.86 0.124 0 14.485 0.494 0 13.205 0.807 0 12.259
 4 16 4.38 0 13.68 4.04 0 13.86 0.807 0 12.259 4.73 0 13.21
@@ -1872,3 +1873,5 @@
 3 16 -25.81 0 18.55 -22.3 0 20 -26.31 0 18.69
 4 16 -21.32 0 16.61 -20.88 0 16.77 -22.3 0 20 -21.67 0 16.56
 3 16 -22.02 0 16.53 -21.67 0 16.56 -22.3 0 20
+3 16 4.65 0 15.27 4.51 0 15.69 .124 0 14.485
+4 16 4.47 0 16.19 -.8 0 15.88 .124 0 14.485 4.51 0 15.69

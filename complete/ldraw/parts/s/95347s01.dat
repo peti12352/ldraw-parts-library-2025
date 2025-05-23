@@ -1,13 +1,15 @@
 0 ~Support  2 x  2 x 10 Girder Triangular  3 Sections with Axlehole  1.5 Section Half
 0 Name: s\95347s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2019-12-08 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-12-31 [OrionP] Official Update 2023-07
+
 
 3 16 13.626 110 20 10.509 110 13.315 15.336 110 20
 3 16 10.128 109.903 10.605 14.016 109.903 10.605 10.509 110 13.315

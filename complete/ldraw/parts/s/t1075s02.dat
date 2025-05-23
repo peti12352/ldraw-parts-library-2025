@@ -1,10 +1,12 @@
 0 ~| BBB Train Wheel Blind Driver 30.4 mm - Spoke
 0 Name: s\t1075s02.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
 
 
 0 // Spoke

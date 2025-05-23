@@ -1,17 +1,21 @@
 0 Sticker  1.0 x  0.8 with Black Schaeffler and Michelin Logos on White Background
 0 Name: 6148328bn.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Speed Champions, Porsche, 919, Hybrid, Pit Lane, Set 75876
+0 !KEYWORDS 919, Bricklink 75876stk01, Brickowl 852010, Hybrid, Pit Lane
+0 !KEYWORDS Porsche, Rebrickable 26357, set 75876, Speed Champions
 
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
 
 0 // Logo primitives
-1 15 0 -.25 7.85 .15 0 0 0 1 0 0 0 .15 logoschal02.dat
-1 15 0 -.25 -1.6 .5 0 0 0 1 0 0 0 .5 logomichi02.dat
+1 0 0 -.25 7.85 .15 0 0 0 1 0 0 0 .15 logo-schaeffler-text.dat
+1 15 0 -.25 7.85 .15 0 0 0 1 0 0 0 .15 logo-schaeffler-text-box.dat
+1 15 0 -.25 -1.6 .5 0 0 0 1 0 0 0 .5 logo-michelin-man-running.dat
+1 15 0 -.25 -1.6 .5 0 0 0 1 0 0 0 .5 logo-michelin-man-running-box.dat
 0 // Primitives
 1 16 -6.5 0 8.5 -1.5 0 0 0 -1 0 0 0 1.5 1-4chrd.dat
 1 16 6.5 0 8.5 1.5 0 0 0 -1 0 0 0 1.5 1-4chrd.dat

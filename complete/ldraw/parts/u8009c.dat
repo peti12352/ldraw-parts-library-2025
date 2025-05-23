@@ -1,15 +1,18 @@
 0 Mursten Brick  4 x  4 Corner with 1 Slot Left
 0 Name: u8009c.dat
 0 Author: N. W. Perry [Plastikean]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Automatic Binding Brick, Lego Mursten
+0 !KEYWORDS Automatic Binding Brick, BrickLink bslot16L, Lego Mursten
+0 !KEYWORDS Rebrickable upn0046b
 
 0 !HISTORY 2022-03-27 [MagFors] Studs without logo
+0 !HISTORY 2024-12-30 [OrionP] Official Update 2024-11
+
 
 4 16 -16 24 56 -16 24 -16 -20 24 -20 -20 24 60
 4 16 -16 24 -16 56 24 -16 60 24 -20 -20 24 -20

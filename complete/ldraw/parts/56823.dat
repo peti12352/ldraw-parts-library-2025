@@ -1,15 +1,17 @@
 0 String Thin Twisted  0.6 mm x 20 cm 3-Ply
 0 Name: 56823.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Set 4564, Set 4557, Bricklink x77ac20
+0 !KEYWORDS BrickLink x77a, Set 4557, set 4564
 
 0 !CMDLINE -c0
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 0 // String

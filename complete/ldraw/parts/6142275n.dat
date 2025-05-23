@@ -1,15 +1,18 @@
 0 Sticker  1 x  0.8 with Red Stripe with "quattro" White Text on Black Background
 0 Name: 6142275n.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP quattro Text in subpart: 1 15 0 0 -1.039 1 0 0 0 1 0 0 0 1 logoaudit05.dat
 0 !HELP quattro Text subpart: 1 15 0 -.25 -1.4344 .2295 0 0 0 1 0 0 0 .2295 subpart.dat
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Speed Champions, Audi, e-tron, R18, Set 75872
+0 !KEYWORDS 0 Bricklink 75872stk01, Audi, Brickowl 776565, e-tron, R18
+0 !KEYWORDS Rebrickable 24752, Set 75872, Speed Champions
+
+0 !HISTORY 2024-12-30 [OrionP] Official Update 2024-11
 
 
 0 // Subpart

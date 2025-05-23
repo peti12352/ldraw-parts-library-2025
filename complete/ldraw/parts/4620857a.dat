@@ -1,13 +1,15 @@
 0 Sticker  5.1 x  3.6 with White Horse, Flower and Butterflies - Right
 0 Name: 4620857a.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 3186, Horse, Trailer
+0 !KEYWORDS Bricklink 3186stk01, Brickowl 621063, Emma, Horse
+0 !KEYWORDS Rebrickable 10095457, Set 3186, Trailer
 
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
 
 4 16 -33.9 0 21.6 -32.4 0 25.9 0 0 -20 -35 0 17
 3 16 -36 0 6.5 0 0 -20 -36 0 5.8
@@ -825,8 +827,8 @@
 4 15 -13.5 -.25 31.1 -14.3 -.25 30.4 -13.8 -.25 30.2 -12.8 -.25 31.1
 4 15 -13 -.25 31.8 -13.5 -.25 31.1 -12.8 -.25 31.1 -12.5 -.25 32.1
 4 15 -13 -.25 31.8 -12.5 -.25 32.1 -13 -.25 32.8 -13.5 -.25 32.4
-4 15 -13.5 -.25 32.4 -13 -.25 32.8 -14.2 -.25 33.2 -14.9 -.25 32.8
-4 15 -14.9 -.25 32.8 -14.2 -.25 33.2 -15.8 -.25 33.2 -16.1 -.25 32.5
+4 15 -13.5 -.25 32.4 -13 -.25 32.8 -14.2 -.25 33.2 -14.7 -.25 32.7
+4 15 -14.7 -.25 32.7 -14.2 -.25 33.2 -15.8 -.25 33.2 -16.1 -.25 32.5
 4 15 -16.1 -.25 32.5 -15.8 -.25 33.2 -17.4 -.25 32.6 -17.6 -.25 31.8
 4 30 24.7 -.25 12.2 28.2 -.25 11.8 27.3 -.25 14.2 25.7 -.25 15
 4 30 23.8 -.25 12.2 24.7 -.25 12.2 25.7 -.25 15 24.2 -.25 15.3

@@ -1,10 +1,12 @@
 0 ~Tyre 37/ 38 x 107 Motorcycle with Racing Tread - Tread  1/30
 0 Name: s\71722s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
 
 
 2 24 17.5088 -166.5851 -28.9005 15.8 -166.132 -30

@@ -1,10 +1,12 @@
 0 ~Sheet Plastic  5.3 x 20.3 Rectagular with  4 Tabs without Patterned Faces Quarter
 0 Name: s\78267s01.dat
 0 Author: Orion Pobursky [OrionP]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06
 
 
 0 BFC INVERTNEXT

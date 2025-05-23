@@ -1,10 +1,12 @@
 0 ~Logo Ferrari Badge Rounded (since 1990) Formed
 0 Name: s\71682pt1s02.dat
 0 Author: Jens Brühl [jb70]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
 
 
 3 14 -.33 .00003 0 -.10589 .68493 -3.4443 .14045 .00003 0

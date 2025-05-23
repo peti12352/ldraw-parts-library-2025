@@ -1,12 +1,14 @@
 0 Sticker  0.9 x  3.9 with "3063-JV" and Magenta Shooting Star, Left (Formed)
 0 Name: 4650853dc01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 3063, Seaplane, Flying Club
+0 !KEYWORDS Flying Club, Seaplane, Set 3063
+
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
 
 
 3 323 3.7 4.1108 2.525 2.26 4.84 -1.408 9 4.84 -1.408

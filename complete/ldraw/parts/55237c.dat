@@ -1,17 +1,19 @@
 0 Bar  6L with Blade
 0 Name: 55237c.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Bionicle, Mini, Weapon, Toa Nuparu, Set 8624, Set 8925, Set 8926
-0 !KEYWORDS Set 8927, Set 8892, Set 8893, Set 8894
+0 !KEYWORDS bionicle, Mini, Set 8624, Set 8892, Set 8893, Set 8894, Set 8925
+0 !KEYWORDS set 8926, Set 8927, Toa Nuparu, Weapon
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2022-02-14 [Sirio] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
 
 0 // Subparts
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\55237cs01.dat

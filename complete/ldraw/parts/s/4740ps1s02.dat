@@ -1,10 +1,12 @@
 0 ~Dish  2 x  2 Inverted with Octagonal Cockpit Pattern -  1/16 with Triangle
 0 Name: s\4740ps1s02.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
 
 
 4 16 -1.4097 .3874 -7.0871 0 .3473 -7.2259 0 0 -6 -2.2962 0 -5.5434

@@ -1,10 +1,12 @@
 0 Technic Cross Block  2 x  4 Split (Pin/Axle/Axle/Pin)
 0 Name: 80910.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
 
 
 1 16 0 0 30 0 0 1 0 1 0 -1 0 0 6536.dat

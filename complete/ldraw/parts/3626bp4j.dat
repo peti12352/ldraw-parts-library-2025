@@ -1,13 +1,16 @@
 0 Minifig Head with Red Eyes and White Fangs Pattern
 0 Name: 3626bp4j.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3626bpb0280, Troll, Castle, Set 5618, Set 7036, Set 7037
-0 !KEYWORDS Set 7038, Set 7040, Set 7041, Set 7048, Set 7078, Set 7097, Set 7979
+0 !KEYWORDS BrickLink 3626pb0280, Castle, Rebrickable 3626bpr0511, Set 5618
+0 !KEYWORDS Set 7036, Set 7037, Set 7038, Set 7040, Set 7041, Set 7048, Set 7078
+0 !KEYWORDS Set 7097, set 7979, Troll
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat

@@ -1,12 +1,14 @@
 0 Minifig Torso with Sand Blue Overalls and Wheat Spike Pattern
 0 Name: 973p0e.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 973pb0900, Set 40083, Set 7052, City
+0 !KEYWORDS Bricklink 973pb0900, City, Set 40083, Set 7052
+
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat

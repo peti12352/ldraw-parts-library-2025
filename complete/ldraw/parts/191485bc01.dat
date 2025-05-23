@@ -1,14 +1,17 @@
 0 Sticker Funnel Black with White Stripes (Formed for Slope Brick 65 2 x 2 x 2)
 0 Name: 191485bc01.dat
 0 Author: Rene Rechthaler [Blechtaler]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 1554, Silja, Ferry, Finland Steamship Co.
+0 !KEYWORDS Bricklink 1554stk01, Brickowl 356438, ferry, Finland Steamship Co.
+0 !KEYWORDS Rebrickable 191485, Set 1554, Silja
 
 0 !HISTORY 2023-01-05 [MagFors] Restructured, added edge lines
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
+
 
 0 // Left
 4 16 20 44 30 20 44 -30 20 0 -10 20 0 30

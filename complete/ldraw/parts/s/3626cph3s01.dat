@@ -1,10 +1,12 @@
 0 ~Minifig Head with Reddish Brown Eyebrows, Cheek Lines, Open Mouth, Smile -  1/2
 0 Name: s\3626cph3s01.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2025-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-01-20 [OrionP] Official Update 2025-01
 
 
 4 84 -9.1923 11.5138 -9.1923 -9.6 11.2 -8.5823 -9.8 11.5 -8.283 -9.1923 11.9601 -9.1923

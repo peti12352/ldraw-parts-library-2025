@@ -1,15 +1,22 @@
 0 Plate  3 x  3 Corner
 0 Name: 77844.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2023-01-01 [GeraldLasser] Derieved from 2420.dat
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 1 16 0 4 20 0 0 1 0 -1 0 -1 0 0 stug3-1x2.dat
 1 16 20 4 0 1 0 0 0 -1 0 0 0 1 stug3-1x2.dat
+1 16 6.7071 5.75 6.7071 0 -2.46448 -.70711 1.75 0 0 0 -2.46448 .70711 box3u2p.dat
+3 16 6 7.5 6 7.4142 7.5 6 4.9497 7.5 3.5355
+4 16 4.9497 7.5 3.5355 3.5355 7.5 4.9497 6 7.5 7.4142 6 7.5 6
+2 24 6 7.5 7.4142 6 7.5 6
+2 24 6 7.5 6 7.4142 7.5 6
+
 4 16 10 8 50 6 8 46 -6 8 46 -10 8 50
 4 16 -10 8 50 -6 8 46 -6 8 -6 -10 8 -10
 4 16 -10 8 -10 -6 8 -6 46 8 -6 50 8 -10

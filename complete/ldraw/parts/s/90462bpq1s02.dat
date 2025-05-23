@@ -1,13 +1,15 @@
 0 ~Minifig Headdress Nemes with 11 Stripes Pattern - Background
 0 Name: s\90462bpq1s02.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [Wesley] Original design
 0 !HISTORY 2022-02-16 [MagFors] Divided into two files
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
 
 3 16 23.922 22.995 -8.086082 22.495 23.073 -8.487993 24.475 23.246 -8.276
 3 16 11.7 21.86 -9.311603 11.83 21.748 -9.146142 8.611 21.857 -9.97

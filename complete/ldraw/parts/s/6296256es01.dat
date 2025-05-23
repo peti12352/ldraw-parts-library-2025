@@ -1,10 +1,12 @@
 0 ~Sticker  1.9 x  1.8 with "nuova 500" Emblem
 0 Name: s\6296256es01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 4 0 2.07 -.25 2.41 4.26 -.25 3.95 4.31 -.25 4.85 1.68 -.25 3.01

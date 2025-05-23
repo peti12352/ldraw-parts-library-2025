@@ -1,12 +1,15 @@
 0 Sticker  3.0 x  1.8 with Black "DMG MORI" and White "919" in Red Frame and Dark Grey Lines on White Background (Formed)
 0 Name: 6148328ayc01.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Speed Champions, Porsche, 919, Hybrid, Pit Lane, Set 75876
+0 !KEYWORDS 919, Bricklink 75876stk01, Brickowl 852010, Hybrid, Pit Lane
+0 !KEYWORDS Porsche, Rebrickable 26357, set 75876, Speed Champions
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 
 1 16 0 .5872 18.9266 1 0 0 0 .998597 -.052953 0 .052953 .998597 s\6148328ays01.dat

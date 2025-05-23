@@ -1,12 +1,15 @@
 0 Tile  1 x  8 with "HANS CHRISTIAN ANDERSEN" Pattern
 0 Name: 4162pt4.dat
 0 Author: Vincent Messenet [Cheenzo]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 40291, Bricklink 4162pb184, Rebrickable 4162pr0059
+0 !KEYWORDS Book, Bricklink 4162pb184, promotional, Rebrickable 4162pr0059
+0 !KEYWORDS Set 40291
+
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
 
 
 0 // Produced using font Perpetua Bold, 48pt

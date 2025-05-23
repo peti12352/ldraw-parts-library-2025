@@ -1,10 +1,12 @@
 0 Duplo Hinge Pin with Deep Recess and Reinforcements
 0 Name: dhingepin2.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Primitive 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Primitive UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
 
 
 1 16 20 0 0 0 6 0 6 0 0 0 0 6 4-8sphe.dat

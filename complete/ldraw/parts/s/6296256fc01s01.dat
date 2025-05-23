@@ -1,10 +1,12 @@
 0 ~Sticker  1.9 x  1.8 with 9 Air Outlet Gills (Formed)
 0 Name: s\6296256fc01s01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 3 0 -16.22 -13.299 -.9514 -15.82 -13.1988 -1.3593 -14.67 -13.3872 -.5921

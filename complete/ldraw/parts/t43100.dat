@@ -1,14 +1,16 @@
 0 | Hubelino Terminal
 0 Name: t43100.dat
 0 Author: Rolf Osterthun [Rolf]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
 0 !KEYWORDS Duplo
 
+0 !HISTORY 2024-04-29 [Holly-Wood] Removed invalid comment, fixed some T-junk
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
 
 2 24 -36 48 -36 36 48 -36
 2 24 -40 48 -40 40 48 -40
@@ -25,12 +27,14 @@
 4 16 -40 48 -40 -36 48 -36 36 48 -36 40 48 -40
 4 16 40 48 -40 36 48 -36 36 48 36 40 48 40
 
-4 16 -40 0 40 -40 0 -40 -32 0 -40 -32 0 32
-4 16 32 0 -40 40 0 -40 40 0 40 32 0 32
-
 3 16 -40 0 40 0 0 32 40 0 40
 3 16 0 0 32 -40 0 40 -32 0 32
 3 16 40 0 40 0 0 32 32 0 32
+
+3 16 40 0 40 32 0 32 32 0 0
+3 16 -32 0 32 -40 0 40 -32 0 0
+4 16 -32 0 0 -40 0 40 -40 0 -40 -32 0 -40
+4 16 40 0 -40 40 0 40 32 0 0 32 0 -40
 
 1 16 0 0 0 32 0 0 0 1 0 0 0 32 48\2-4ndis.dat
 1 16 0 4 0 36 0 0 0 -1 0 0 0 36 48\2-4ndis.dat
@@ -93,9 +97,6 @@
 2 24 -14 33.467 0 -13.777 33.565 -1.12
 2 24 -13.777 33.565 -7.627 -14.782 33.124 -6.123
 2 24 -16 32.59 0 -14.782 33.124 -6.123
-
-0 1 16 0 32.5895 0 16 0 0 0 1 0 0 0 16 2-4edge.dat
-0 1 16 0 33.467 0 14 0 0 0 1 0 0 0 14 2-4edge.dat
 
 2 24 -13.874 33.482 .633 -12.95 33.408 5.279
 2 24 -16 32.59 0 -15.093 32.695 4.56

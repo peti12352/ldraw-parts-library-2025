@@ -1,13 +1,15 @@
 0 ~Minifig Hair with Ponytail and Fringe Highlight
 0 Name: s\13785s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-07 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2021-06-29 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
+
 
 4 16 -4.53 -8.58 -14.06 -6.28 -8.09 -13.6 -6.03 -6.26 -14.53 -4.36 -7.09 -14.8
 4 16 -4.36 -7.09 -14.8 -6.03 -6.26 -14.53 -4.83 -4.57 -15.38 -3.54 -5.66 -15.44

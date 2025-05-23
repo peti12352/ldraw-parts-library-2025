@@ -1,13 +1,15 @@
 0 Sticker  0.7 x  3.3 with Red "7905" on Yellow Background
 0 Name: 4297022c.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 7905, Tower Crane, Bricklink 7905stk01, Rebrickable 56716
-0 !KEYWORDS Brickowl 660798
+0 !KEYWORDS Bricklink 7905stk01, Brickowl 660798, Rebrickable 56716, Set 7905
+0 !KEYWORDS Tower Crane
+
+0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
 
 
 1 14 32.75 -.25 6.5 1 0 0 0 1 0 0 0 1 1-4chrd.dat

@@ -1,12 +1,15 @@
 0 Sticker  0.8 x  1.7 with Black "ZZ" and Aurebesh Characters
 0 Name: 6041468c.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10240, X-Wing, Star Wars
+0 !KEYWORDS Bricklink 10240stk02, Brickowl 172336, Rebrickable 14584, Set 10240
+0 !KEYWORDS Star Wars, X-Wing
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 1 15 16.5 -.25 7.75 1 0 0 0 1 0 0 0 1 1-4chrd.dat

@@ -1,10 +1,12 @@
 0 ~Windscreen  9 x  6 x  1.667 - Rear Window Half
 0 Name: s\1874p01s01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
 
 
 1 16 60 2 58 0 -1 0 -2 0 0 0 0 2 1-4chrd.dat

@@ -1,11 +1,12 @@
-0 ~Sticker  1.7 x  1.7 with Prohibited Sign
+0 ~Sticker  1.7 x  1.7 with Prohibited Sign without Symbol Surface
 0 Name: s\6234010bs01.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 1 16 -16.5 0 16.5 0 0 -1 0 1 0 1 0 0 1-4chrd.dat
 1 16 16.5 0 16.5 1 0 0 0 1 0 0 0 1 1-4chrd.dat
@@ -166,7 +167,6 @@
 3 16 -15.253 0 -3.034 -15.477 0 -1.524 -17.5 0 0
 3 16 -14.882 0 -4.515 -15.253 0 -3.034 -17.5 0 0
 4 16 -14.368 0 -5.951 -14.882 0 -4.515 -17.5 0 0 -17.5 0 -16.5
-3 16 11.024 0 -5.893 9.663 0 -7.93 10.394 0 -6.945
 4 16 -17.5 0 16.5 -14.368 0 5.951 -13.716 0 7.331 -16.5 0 17.5
 3 16 -12.931 0 8.64 -16.5 0 17.5 -13.716 0 7.331
 3 16 -12.022 0 9.866 -16.5 0 17.5 -12.931 0 8.64
