@@ -1,9 +1,9 @@
 # ldraw-parts-library
 Upload of the LDraw parts library intended to be used for static file loading in github examples.
 
-Parts library downloaded from [here](https://library.ldraw.org/updates?latest) and unofficial parts from [here](https://library.ldraw.org/tracker) on January 30th, 2023.
+Parts library downloaded from [here](https://library.ldraw.org/updates?latest) and unofficial parts from [here](https://library.ldraw.org/tracker) on May 22th, 2025.
 
-color definitions downloaded from [here](https://www.ldraw.org/article/547.html) on May 15th, 2023.
+color definitions downloaded from [here](https://www.ldraw.org/article/547.html) on May 22th, 2025.
 
 # Use with three.js LDrawLoader
 
