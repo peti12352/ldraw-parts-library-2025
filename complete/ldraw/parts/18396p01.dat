@@ -1,15 +1,15 @@
 0 Constraction Flame  3.5 x 12 with Axle with Orange and Bright Light Yellow Highlight Pattern
 0 Name: 18396p01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Tribal, Swirl, Bricklink 18396pb01
+0 !KEYWORDS 70227, 70228, Bricklink 18396pb01, Rebrickable 18396pat0001
+0 !KEYWORDS set 70221, Set 70224, set 70225, Swirl, Tribal
 
-
-0 !TEXMAP START PLANAR -20 -235 0 50 -235 0 -20 0 0 18396p01.png
+0 !TEXMAP START PLANAR 0 -235 -20 0 -235 50 0 20 -20 18396p01.png
 0 !: 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18396s01.dat
 0 !: 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18396s02.dat
 0 !: 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18396s03.dat
@@ -17,15 +17,14 @@
 0 !: 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\18396s02.dat
 0 !: 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\18396s03.dat
 0 !TEXMAP FALLBACK
-
-1 4 0 0 0 1 0 0 0 1 0 0 0 1 s\18396s01.dat
-1 4 0 0 0 -1 0 0 0 1 0 0 0 1 s\18396s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18396s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\18396s01.dat
 1 25 0 0 0 1 0 0 0 1 0 0 0 1 s\18396s02.dat
 1 25 0 0 0 -1 0 0 0 1 0 0 0 1 s\18396s02.dat
 1 191 0 0 0 1 0 0 0 1 0 0 0 1 s\18396s03.dat
 1 191 0 0 0 -1 0 0 0 1 0 0 0 1 s\18396s03.dat
 0 !TEXMAP END
-1 4 0 0 0 1 0 0 0 1 0 0 0 1 s\18396s04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18396s04.dat
 1 25 0 0 0 1 0 0 0 1 0 0 0 1 s\18396s05.dat
 1 191 0 0 0 1 0 0 0 1 0 0 0 1 s\18396s06.dat
 

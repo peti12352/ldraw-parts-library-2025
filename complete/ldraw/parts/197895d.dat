@@ -1,0 +1,13 @@
+0 =Sticker  1.9 x  3.8 with Yellow Box and Arrows
+0 Name: 197895d.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part Alias
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Cargo, Freighter, Set 4030
+
+
+0 // Alias of 190145a
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 190145a.dat

@@ -1,8 +1,8 @@
 0 Sail 12 x 10 Trapezoidal with Red Flying Dragon Pattern (Formed)
 0 Name: u767p01c01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Placement on mast:
 0 !HELP 1 25 0 148 0 1 0 0 0 1 0 0 0 1 4318.dat
@@ -14,7 +14,8 @@
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Sheet Fabric
-0 !KEYWORDS Set 6057, Black knights, Black falcons, Castle, Bricklink sailbb19
+0 !KEYWORDS Black Falcons, Black Knights, Bricklink sailbb19, Castle
+0 !KEYWORDS Rebrickable upn0016pr0002, Set 6057
 
 
 0 BFC INVERTNEXT

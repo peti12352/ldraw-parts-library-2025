@@ -1,0 +1,13 @@
+0 Logo Koenigsegg with thick Border
+0 Name: logo-koenigsegg-1.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Primitive
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Exact dimensions X = 117.2; Z = 154.4
+
+0 BFC CERTIFY CCW
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 logo-koenigsegg-1sub.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 logo-koenigsegg-1sub.dat

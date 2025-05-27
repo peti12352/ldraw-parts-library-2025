@@ -1,0 +1,16 @@
+0 Duplo Fence 1 x 6 x 2 Picket
+0 Name: 6497.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6497s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6497s01.dat
+
+1 16 100 0 0 1 0 0 0 2.75 0 0 0 1 stud7.dat
+1 16 -100 0 0 -1 0 0 0 2.75 0 0 0 1 stud7.dat
+
+1 16 -10 9.5 0 0 20 0 7.5 0 0 0 0 3 box4o8a.dat
+1 16 -10 42.5 0 0 20 0 7.5 0 0 0 0 3 box4o8a.dat

@@ -1,0 +1,11 @@
+0 =Technic Steering Link 9L
+0 Name: 35257.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part Alias
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 32293, Rebrickable 32293
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 32293.dat

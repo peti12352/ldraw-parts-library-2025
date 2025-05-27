@@ -1,14 +1,14 @@
 0 Sticker  3.1 x  17.2 with Yellow Gears on Blue Background and LEGO Technic Logo (Formed)
 0 Name: 168365fc01.dat
 0 Author: Max Martin Richter [MMR1988]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Part height is 62.7 LDU
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 8858-1, Flag
+0 !KEYWORDS Flag, Set 8858-1
 
 
 1 16 7.39 18.3273 -.25 1 0 0 0 0 -1 0 1 0 logo-lego-3.dat

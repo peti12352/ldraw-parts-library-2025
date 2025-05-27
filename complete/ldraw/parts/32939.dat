@@ -1,12 +1,13 @@
-0 Canvas Triangular 21.8 x 20.7 with Curved Sides and  4 Holes
+0 Sheet Fabric Triangular 21.8 x 20.7 with Curved Sides and  4 Holes
 0 Name: 32939.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Sheet Fabric
+0 !KEYWORDS Carousel, Fairground, Set 10257
 
 
 4 16 -194.159 0 -152.371 -204.445 0 -160.876 -206.706 0 -157.492 -195.744 0 -151.272

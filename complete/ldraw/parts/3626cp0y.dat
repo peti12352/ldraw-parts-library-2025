@@ -1,0 +1,22 @@
+0 Minifig Head with White Oval Eyes Pattern
+0 Name: 3626cp0y.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 3626pb2795, Looney Tunes, Marvin the Martian
+0 !KEYWORDS Rebrickable 3626cpr3379, Set 71030
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs01.dat
+
+1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t08o6250.dat
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 -8 t08o6250.dat
+1 16 0 4 0 -13 0 0 0 13 0 0 0 -13 1-8cyli.dat
+1 16 0 4 0 13 0 0 0 13 0 0 0 -13 1-8cyli.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 -8 t08o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t08o6250.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cp0ys01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626cp0ys01.dat

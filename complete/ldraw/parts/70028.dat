@@ -1,0 +1,14 @@
+0 Electric 12 Volt: Remote Control for Signal
+0 Name: 70028.dat
+0 Author: Javier Orquera [kuramapika1]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 4707pb02, Rebrickable 4707c04, Set 5081, Set 7860, switch
+0 !KEYWORDS Train
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4110c08.dat
+1 16 20.5 18 65 1 0 0 0 1 0 0 0 1 4111p02.dat
+1 16 -20.5 18 65 1 0 0 0 1 0 0 0 1 4112p02.dat

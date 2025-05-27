@@ -1,0 +1,13 @@
+0 Logo Claro White with Background
+0 Name: logo-claro-01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Primitive
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Exact dimensions X = 26.64; Z = 10
+
+0 BFC CERTIFY CCW
+
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 logo-claro-text-01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 logo-claro-text-outerbox-01.dat

@@ -1,0 +1,12 @@
+0 Boat Ship Wheel with Unslotted Pin and Technic Brick  1 x  2
+0 Name: 4790c01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 3633, Set 3673, Set 3683, steering
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3700.dat
+1 16 0 10 -30 1 0 0 0 0 -1 0 1 0 4790.dat

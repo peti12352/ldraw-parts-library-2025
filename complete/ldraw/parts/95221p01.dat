@@ -1,0 +1,21 @@
+0 Minifig Hair Dreadlocks with Beads and Dark Red Bandana Pattern
+0 Name: 95221p01.dat
+0 Author: Lisa Winter [LisaWinter]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS BrickLink 95221pb02, Captain Jack Sparrow, Pirates of the Caribbean
+0 !KEYWORDS Rebrickable 95221pr0002, Set 30132, Set 4181, Set 4182, Set 4183
+0 !KEYWORDS set 4184, set 4191, Set 4192, Set 853219
+
+0 // Without patternable area
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\95221s01.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\95221p01s01.dat
+
+0 // Bandana
+1 320 0 0 0 1 0 0 0 1 0 0 0 1 s\95221s03.dat

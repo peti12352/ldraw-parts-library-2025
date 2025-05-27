@@ -1,0 +1,16 @@
+0 Animal Bird Cockatoo with Yellow Crest and Cheeks Pattern
+0 Name: 6333p01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 6333pb01, CMF, Collectable, Rebrickable 6333pr0001
+0 !KEYWORDS Series 27, Set 71048
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6333s01.dat
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 s\6333s03.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\6333s04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6333p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6333p01s01.dat

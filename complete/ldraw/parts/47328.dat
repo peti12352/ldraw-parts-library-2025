@@ -1,15 +1,16 @@
-0 Technic Bionicle Vahki Lower Leg Section
+0 Constraction Limb 7 Lower Section with 3 Transverse Pinholes
 0 Name: 47328.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Construction
+0 !KEYWORDS bionicle, Vahki
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2021-04-10 [Sirio] File preparation for LDraw Parts Tracker
+
 
 0 // Subparts
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\47328s01.dat

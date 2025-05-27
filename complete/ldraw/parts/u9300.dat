@@ -1,0 +1,9 @@
+0 ~Train Track  9V Switch Left - Internal Contact Plate for Switch Function, Formed for Curved Main Rail
+0 Name: u9300.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 u9174.dat

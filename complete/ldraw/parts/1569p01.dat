@@ -1,0 +1,14 @@
+0 Animal Lamb with Black Eyes Pattern
+0 Name: 1569p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 1569pb01, Rebrickable 1569pr0001, Set 10305, Set 40606
+0 !KEYWORDS Set 60346, Set 60461, Sheep
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1569s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1569p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\1569p01s01.dat

@@ -1,8 +1,8 @@
 0 Stud Duplo High Contrast for Instructions
 0 Name: stud20-high-contrast.dat
 0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Unofficial_Primitive 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Primitive
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP This file is a modified version of stud20.dat with all vertical surfaces
 0 !HELP colored black hardcodedly. This variant can be used as a substitute for

@@ -1,0 +1,17 @@
+0 ~Sticker  0.8 x  1.6 with Black Triangle and White Sparco Logo on Blue Background Right -  Fourth Face
+0 Name: s\6221654ds04.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // Faces
+0 // Red faces
+3 4 .5967 -.25 -1.9129 .9328 -.25 .0128 -5.4515 -.25 .0128
+3 4 .5967 -.25 -1.9129 -5.4515 -.25 .0128 .2858 -.25 -3.8429
+3 4 0 -.25 -5.7767 .2858 -.25 -3.8429 -5.4515 -.25 .0128
+0 // White faces
+3 15 .5967 -.25 -1.9129 8 -.25 .0128 .9328 -.25 .0128
+4 15 .5967 -.25 -1.9129 .2858 -.25 -3.8429 8 -.25 -7.061 8 -.25 .0128
+4 15 0 -.25 -5.7767 1.2093 -.25 -7.061 8 -.25 -7.061 .2858 -.25 -3.8429

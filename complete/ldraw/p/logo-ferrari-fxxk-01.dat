@@ -1,0 +1,13 @@
+0 Logo Ferrari FXXK Text Black/Silver with Background
+0 Name: logo-ferrari-fxxk-01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Primitive
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Exact dimensions X = 75.3; Z = 15.5
+
+0 BFC CERTIFY CCW
+
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 logo-ferrari-fxxk-text-01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 logo-ferrari-fxxk-outerbox-01.dat

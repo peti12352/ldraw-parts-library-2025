@@ -1,15 +1,15 @@
 0 Technic Ribbed Hose  6L (Formed  4.063 x  3.963 Bent 64 Degrees )
 0 Name: 71944-f2.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Delete "0 //" of the 4 lines in front of the code to see it in action.
 0 !HELP Next rotate around origin with 25 Degrees.
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS 7 mm D., 19 Ribs, 48 mm, Set 10295, Porsche 911/930 Turbo
+0 !KEYWORDS 19 Ribs, 48 mm, 7 mm D., Porsche 911/930 Turbo, Set 10295
 
 
 0 // 1 0 -10 6 10 0 0 1 0 1 0 -1 0 0 11458.dat

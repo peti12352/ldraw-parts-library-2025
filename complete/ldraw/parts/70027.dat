@@ -1,0 +1,14 @@
+0 Electric 12 Volt: Remote Control for Switch
+0 Name: 70027.dat
+0 Author: Javier Orquera [kuramapika1]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 4707pb01, Rebrickable 4707c01, Set 1239, Set 5080
+0 !KEYWORDS Set 7858, Set 7859, Set 7863, switch, Train
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4110c06.dat
+1 16 20.5 18 65 1 0 0 0 1 0 0 0 1 4111p01.dat
+1 16 -20.5 18 65 1 0 0 0 1 0 0 0 1 4112p01.dat

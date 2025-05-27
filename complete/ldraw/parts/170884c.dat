@@ -1,19 +1,20 @@
 0 Sticker  1.9 x  3.6 with White Train Logo
 0 Name: 170884c.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 4565
+0 !KEYWORDS Bricklink 4565stk01, Brickowl 677498, Freight and Crane Railway
+0 !KEYWORDS Rebrickable 170884, Set 4565
 
 0 !HISTORY 2022-06-19 [GeraldLasser] Corrected Height
+0 !HISTORY 2024-09-01 [Holly-Wood] Used logo prims
 
-1 16 0 -0.25 0 3.4 0 0 0 0 1 0 3.4 0 s\4865p01b.dat
-1 15 0 -.25 0 3.4 0 0 0 0 1 0 3.4 0 s\4865p01c.dat
+0 // Main Color
+1 16 0 -.25 0 3.4 0 0 0 1 0 0 0 -3.4 logo-train-1991-box.dat
 
-0 // Main
 1 16 0 -.25 0 36 0 0 0 .25 0 0 0 19 box5-12.dat
 3 16 -21.59 -.25 13.6 -13.6 -.25 13.6 -36 -.25 19
 3 16 -34 -.25 13.6 -21.59 -.25 13.6 -36 -.25 19
@@ -33,3 +34,7 @@
 3 16 36 -.25 19 34 -.25 13.6 34 -.25 0
 3 16 34 -.25 -13.6 36 -.25 -19 34 -.25 0
 3 16 36 -.25 -19 34 -.25 -13.6 21.59 -.25 -13.6
+
+0 // White
+0 BFC NOCLIP
+1 15 0 -.25 0 3.4 0 0 0 1 0 0 0 -3.4 logo-train-1991.dat

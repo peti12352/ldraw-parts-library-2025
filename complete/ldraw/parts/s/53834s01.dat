@@ -1,12 +1,13 @@
 0 ~Train Track 6 Studs Wide Straight - Interlocking Track End Common Geometry
 0 Name: s\53834s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-14 [GeraldLasser] Derieved from s\53401s02 by Ronald Vallenduuk [Duq]
+
 
 0 // Inside
 0 BFC INVERTNEXT

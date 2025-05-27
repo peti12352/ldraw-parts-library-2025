@@ -1,0 +1,13 @@
+0 Electric 12 Volt: Remote Control for Crossing
+0 Name: 4110c04.dat
+0 Author: Javier Orquera [kuramapika1]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 5083, Set 7866, switch, Train
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4110c07.dat
+1 16 20.5 18 65 1 0 0 0 1 0 0 0 1 4111p03.dat
+1 16 -20.5 18 65 1 0 0 0 1 0 0 0 1 4112p03.dat

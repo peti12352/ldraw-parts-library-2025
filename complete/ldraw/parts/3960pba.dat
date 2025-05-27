@@ -1,0 +1,20 @@
+0 Dish  4 x  4 Inverted with  8 Black Spiral Swirls Pattern
+0 Name: 3960pba.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3960pb055, Rebrickable 3960pr9997, Set 10759
+
+0 !CMDLINE -c326
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960pbas01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\3960pbas01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3960pbas01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\3960pbas01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960s05.dat

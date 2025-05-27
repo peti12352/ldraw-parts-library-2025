@@ -1,12 +1,13 @@
 0 Tile  1 x  1 Round with Magenta Heart on Bright Light Yellow Icing Pattern
 0 Name: 98138p8h.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS 98138pb094, Set 41405 Set 76388, Set 40514, Food
+0 !KEYWORDS 98138pb094, BrickLink 98138pb094, food, Rebrickable 98138pr0100
+0 !KEYWORDS Set 40514, Set 41405 Set 76388
 
 0 !CMDLINE -c84
 

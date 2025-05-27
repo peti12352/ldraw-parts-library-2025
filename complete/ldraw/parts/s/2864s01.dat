@@ -1,0 +1,13 @@
+0 ~Train Track  9V Switch Command Rod, Metal Plate Pin
+0 Name: s\2864s01.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 2.5 0 1.875 0 0 0 -1 0 0 0 1.875 4-4ndis.dat
+1 16 0 2.5 0 1.875 0 0 0 .5 0 0 0 1.875 4-4cylo.dat
+1 16 0 3 0 .375 0 0 0 1 0 0 0 .375 4-4ring5.dat
+1 16 0 3 0 .125 0 0 0 1 0 0 0 .125 4-4rin18.dat
+1 16 0 4 0 2.375 0 0 0 -1 0 0 0 2.375 4-4cylc.dat

@@ -1,0 +1,11 @@
+0 =Brick  1 x  4 without Centre Studs
+0 Name: 35254.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part Alias
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 3066, Rebrickable 3066
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3066.dat

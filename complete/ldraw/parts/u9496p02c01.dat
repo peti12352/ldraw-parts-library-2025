@@ -1,8 +1,8 @@
 0 Sail 15 x 22 Triangular with Thin Stripes on White Background Pattern (Formed Shape 1)
 0 Name: u9496p02c01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part 
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Placement on windmill wing:
 0 !HELP 1 1 0 0 0 0 1 0 0 0 -1 -1 0 0 32016.dat
@@ -26,7 +26,8 @@
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Sheet Fabric
-0 !KEYWORDS eLAB Renewable Energy Set, set 9681, set 9684
+0 !KEYWORDS BrickLink 71308, eLAB Renewable Energy Set, Rebrickable 71308pr0001
+0 !KEYWORDS set 9681, set 9684
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9496p02c01s01.dat

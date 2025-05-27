@@ -1,0 +1,11 @@
+0 ~Electric Sound Brick  4 x  4 x  1.667 Loudspeaker
+0 Name: u9400.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // Details not modeled
+
+1 16 0 0 0 0 0 36 0 -14 0 7 0 0 box.dat
