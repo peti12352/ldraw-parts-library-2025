@@ -1,0 +1,21 @@
+0 Tile  1 x  1 with 15 Metallic Silver Dots Pattern
+0 Name: 3070bpz2.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS brake, Bricklink 3070pb370, F1, LED, light, Rebrickable 3070bpr9897
+0 !KEYWORDS red, Set 77242, Set 77243, Set 77244, Set 77245, Set 77246
+0 !KEYWORDS Set 77247, Set 77248, Set 77249, Set 77250, Set 77251
+0 !KEYWORDS Speed Champions
+
+0 // Pattern-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bpz2s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3070bpz2s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3070bpz2s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3070bpz2s01.dat

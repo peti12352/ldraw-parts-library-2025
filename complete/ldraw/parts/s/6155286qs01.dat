@@ -1,0 +1,20 @@
+0 ~Sticker  2.6 x  3.5 with Black Lines and Rectangles - 1. Face
+0 Name: s\6155286qs01.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // Black
+3 0 9.254 0 0 9.9814 0 0 9.254 0 3.55
+3 0 9.254 0 3.55 9.9814 0 0 9.391 0 4.239
+3 0 9.391 0 4.239 9.9814 0 0 9.781 0 4.823
+3 0 9.781 0 4.823 9.9814 0 0 9.9814 0 4.956
+
+0 // Yellow
+3 14 9.254 0 3.55 9.391 0 4.239 9.254 0 5.35
+3 14 9.391 0 4.239 9.781 0 4.823 9.254 0 5.35
+3 14 0 0 0 9.254 0 0 9.254 0 3.55
+3 14 9.254 0 5.35 0 0 0 9.254 0 3.55
+4 14 9.9814 0 4.956 9.9814 0 5.35 9.254 0 5.35 9.781 0 4.823

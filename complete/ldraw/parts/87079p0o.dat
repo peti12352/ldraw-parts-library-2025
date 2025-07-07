@@ -1,13 +1,15 @@
 0 Tile  2 x  4 with Gold "the Old Guarded Inn", Goats and Filigree Pattern
 0 Name: 87079p0o.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2025-06
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS BrickLink 87079pb1486, medieval, Modular Buildings
 0 !KEYWORDS Rebrickable 87079pr9884, Set 10350, Tavern Sign, Tudor Corner
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079p0os01.dat

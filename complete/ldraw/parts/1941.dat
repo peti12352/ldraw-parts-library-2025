@@ -1,0 +1,21 @@
+0 Holder Ring with  3 Bars and  3 Bar Tubes - Open Stud
+0 Name: 1941.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Bars at Y=2.675
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Hexagon, Triangle
+
+0 !HISTORY 2025-06-06 [fwcain] Adapted from 20612
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1941s01.dat
+1 16 0 0 0 -0.5 0 0.86603 0 1 0 -0.86603 0 -0.5 s\1941s01.dat
+1 16 0 0 0 -0.5 0 -0.86603 0 1 0 0.86603 0 -0.5 s\1941s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 -15 2.675 6.25 -4 0 0 0 0 4 0 -12.5 0 7-16cylo.dat
+1 16 -15 2.675 6.25 -4 0 0 0 0 -4 0 -12.5 0 7-16cylo.dat

@@ -1,10 +1,12 @@
 0 ~Wheel 7 x 24 with Fake Bolts and 6 Spokes - Rim Quarter
 0 Name: s\74214s03.dat
 0 Author: Rene Rechthaler [Blechtaler]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-06
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
 
 0 // half arm
 4 16 14 -.65 -8.3 18.8 0 -7.5 18.8 -1 -7.5 14 -1.6 -8.3

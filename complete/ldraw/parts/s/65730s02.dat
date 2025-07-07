@@ -1,10 +1,12 @@
 0 ~Minifig Hair Short Tousled with Cap - Cap without Front Surface
 0 Name: s\65730s02.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-06
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
 
 3 16 -12.159 2.398 13.239 -13.484 4.193 12.398 -12.831 0.657 12.24
 3 16 -13.484 4.193 12.398 -12.159 2.398 13.239 -12.022 4.482 13.963

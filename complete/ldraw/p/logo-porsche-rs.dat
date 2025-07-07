@@ -1,12 +1,14 @@
 0 Logo Porsche RS
 0 Name: logo-porsche-rs.dat
 0 Author: Jens Brühl [jb70]
-0 !LDRAW_ORG Unofficial_Primitive
+0 !LDRAW_ORG Primitive UPDATE 2025-06
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Exact dimensions X = 20; Z = 6
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
 
 4 16 9.4 0 1.91 9.9 0 2.25 9.8 0 2.51 9.26 0 2.61
 3 16 9.8 0 2.51 9.9 0 2.25 9.92 0 2.41

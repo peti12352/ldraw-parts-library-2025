@@ -1,0 +1,22 @@
+0 Logo Ferrari Badge Rectangular (1961-1989) Box Low Resolution
+0 Name: logo-ferrari-badge-rectangular-box-lores.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Primitive
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Exact dimensions X = 10.96; Z = 17.6
+
+0 BFC CERTIFY CCW
+
+0 // Upper left corner
+3 16 -5.48 0 8.8 -5.3189 0 8.6389 -4.93 0 8.8
+3 16 -5.48 0 8.8 -5.48 0 8.25 -5.3189 0 8.6389
+0 // Upper right coner
+3 16 5.48 0 8.8 4.93 0 8.8 5.3189 0 8.6389
+3 16 5.48 0 8.8 5.3189 0 8.6389 5.48 0 8.25
+0 // Lower left corner
+3 16 -5.48 0 -8.8 -5.3189 0 -8.6389 -5.48 0 -8.25
+3 16 -5.48 0 -8.8 -4.93 0 -8.8 -5.3189 0 -8.6389
+0 // Lower right corner
+3 16 5.48 0 -8.8 5.48 0 -8.25 5.3189 0 -8.6389
+3 16 5.48 0 -8.8 5.3189 0 -8.6389 4.93 0 -8.8

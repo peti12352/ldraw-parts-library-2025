@@ -1,12 +1,14 @@
 0 Logo Porsche RS Box
 0 Name: logo-porsche-rs-box.dat
 0 Author: Jens Brühl [jb70]
-0 !LDRAW_ORG Unofficial_Primitive
+0 !LDRAW_ORG Primitive UPDATE 2025-06
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Exact dimensions X = 20; Z = 6
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
 
 3 16 -4.54 0 2.97 -3.3 0 3 -10 0 3
 3 16 -4.54 0 2.97 -10 0 3 -5.58 0 2.83

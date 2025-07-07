@@ -1,10 +1,12 @@
 0 ~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Golden Crocodile Head and Red Flames Pattern - Half
 0 Name: s\18605p0os02.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-06
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
 
 3 4 -10.95 0 -26.65 -11.25 0 -27 -10.45 0 -27.1
 4 4 -11.25 0 -27 -10.95 0 -26.65 -11.35 0 -26.1 -12.2 0 -26.65

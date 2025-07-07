@@ -1,13 +1,15 @@
 0 Tile  2 x  2 with Groove with Lime "BUBBLEGUM" and Medium Azure/Dark Pink Rabbits Pattern
 0 Name: 3068bp0v.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2025-06
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Animal Crossing, Bricklink 3068pb2353, K.K. Slider Album Cover
-0 !KEYWORDS Rebrickable 3068bpr0709, set 77050
+0 !KEYWORDS Animal Crossing, Bricklink 3068pb2353, Chrissy, Francine
+0 !KEYWORDS K.K. Slider Album Cover, Rebrickable 3068bpr0709, set 77050
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 4 5 -2.79 0 -4.32 -2.51 0 -5.75 -1.7 0 -5.12 -1.78 0 -4.9

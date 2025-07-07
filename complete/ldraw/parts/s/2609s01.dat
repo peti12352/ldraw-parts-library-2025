@@ -1,7 +1,7 @@
 0 ~Magnet Holder Tile  2 x  2 - Bottom
 0 Name: s\2609s01.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-06
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,7 @@
 0 !HISTORY 1997-12-05 [ejboer] Subparted from 2609a for b variant
 0 !HISTORY 2025-03-26 [Holly-Wood] Fixed geometry
 0 !HISTORY 2025-03-27 [Blechtaler] added chamfer
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
 
 0 // magnet hole
 1 16 0 4 0 0 0 15.2 0 -1 0 -15.2 0 0 3-16ndis.dat

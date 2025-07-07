@@ -1,10 +1,12 @@
 0 ~Figure Club with Spikes - Half with Handle
 0 Name: 60659a.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2025-06
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
 
 
 0 // Correct number is 60659, but it has been incorrectly used on the complete assembly

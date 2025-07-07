@@ -1,13 +1,15 @@
 0 Minifig Head with Dark Bluish Grey Face Neutral / Frown 2-Sided Pattern
 0 Name: 3626cpmc.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2025-06
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS BrickLink 3626pb3254, Elf, Lord of the Rings, LOTR
 0 !KEYWORDS Rebrickable 3626cpr3956, Rivendell, Set 10316, Statue
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat

@@ -1,12 +1,13 @@
 0 ~Magnet Holder Tile  2 x  2 - Short Arm
 0 Name: s\2609s02.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-06
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2025-03-26 [Holly-Wood] Fixed geometry
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
 
 1 16 -2.5 -6.25 0 0 1 0 0 0 2 2 0 0 2-4ndis.dat
 1 16 -2.5 -6.25 0 0 1 0 0 0 -2 2 0 0 1-16tndis.dat

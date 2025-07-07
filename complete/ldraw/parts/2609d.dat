@@ -1,7 +1,7 @@
 0 Magnet Holder Tile  2 x  2 with Short Arms
 0 Name: 2609d.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2025-06
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Usage of this part with magnet
@@ -21,6 +21,7 @@
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 0 !HISTORY 2025-03-17 [ejboer] Used subpart
 0 !HISTORY 2025-03-26 [Holly-Wood] Fixed geometry, used subs
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2609s01.dat
 1 16 17.5 0 0 1 0 0 0 1 0 0 0 1 s\2609s02.dat

@@ -1,7 +1,7 @@
 0 Minifig Torso with Arms and Hands with Race Suit with Mercedes AMG Logos and Yellow Stripes Pattern
 0 Name: 76382pyb.dat
 0 Author: Chris Böhnke [KnightOfTarenta]
-0 !LDRAW_ORG Unofficial_Shortcut
+0 !LDRAW_ORG Shortcut UPDATE 2025-06
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !KEYWORDS Bricklink 973pb2632c01, GT3, Jacket, Mini Upper Part No 3772
 0 !KEYWORDS Rebrickable 973e079pr3772, Set 75877, Speed Champions, sport
 0 !KEYWORDS Uniform
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pyb.dat
 1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat

@@ -1,13 +1,15 @@
 0 Tile  2 x  4 with White Blueprint with "ECO 1:1" and set 60365 Pattern
 0 Name: 87079p0p.dat
 0 Author: Bertrand Lequy [Berth]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2025-06
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Apartment Building, Bricklink 87079pb1284, Construction, engineering
 0 !KEYWORDS house, Rebrickable 87079pr0311, set 60391, Technical Drawing
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
 4 15 31.7 0 -15.7 31.7 0 -8.65 30.9 0 -8.65 30.9 0 -15.7
